@@ -1,0 +1,5384 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Eventchamp Elements\n"
+"POT-Creation-Date: 2021-03-09 16:28+0300\n"
+"PO-Revision-Date: 2021-03-09 16:28+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: custom-post-types.php:39 custom-post-types.php:117
+msgid "Parent Item:"
+msgstr ""
+
+#: custom-post-types.php:40 custom-post-types.php:115
+msgid "All Items"
+msgstr ""
+
+#: custom-post-types.php:41 custom-post-types.php:121
+msgid "View Item"
+msgstr ""
+
+#: custom-post-types.php:42 custom-post-types.php:119
+msgid "Add New Item"
+msgstr ""
+
+#: custom-post-types.php:43
+msgid "Add New"
+msgstr ""
+
+#: custom-post-types.php:44 custom-post-types.php:120
+msgid "Edit Item"
+msgstr ""
+
+#: custom-post-types.php:45 custom-post-types.php:122
+msgid "Update Item"
+msgstr ""
+
+#: custom-post-types.php:46 custom-post-types.php:124
+msgid "Search Items"
+msgstr ""
+
+#: custom-post-types.php:47 custom-post-types.php:127 post-types.php:180
+#: post-types.php:222 post-types.php:264 post-types.php:306 post-types.php:348
+#: post-types.php:390 post-types.php:432 post-types.php:474
+msgid "Not Found"
+msgstr ""
+
+#: custom-post-types.php:48
+msgid "Not Found in Trash"
+msgstr ""
+
+#: custom-post-types.php:116
+msgid "Parent Item"
+msgstr ""
+
+#: custom-post-types.php:118
+msgid "New Item Name"
+msgstr ""
+
+#: custom-post-types.php:123
+msgid "Separate items with commas"
+msgstr ""
+
+#: custom-post-types.php:125
+msgid "Add or remove items"
+msgstr ""
+
+#: custom-post-types.php:126
+msgid "Choose from the most used items"
+msgstr ""
+
+#: favorite-system.php:42 like-system.php:42
+msgid "Error!"
+msgstr ""
+
+#: favorite-system.php:260
+msgid "Unfavorite"
+msgstr ""
+
+#: favorite-system.php:265
+msgid "Favorite"
+msgstr ""
+
+#: favorite-system.php:279
+msgid "Add to favorites"
+msgstr ""
+
+#: favorite-system.php:280
+msgid "Remove from favorites"
+msgstr ""
+
+#: favorite-system.php:281
+msgid "You added this to your favorites."
+msgstr ""
+
+#: favorite-system.php:281
+msgid "This content removed from your favorites."
+msgstr ""
+
+#: index.php:85
+#, php-format
+msgid "%1$s requires %2$s version must be %3$s or greater."
+msgstr ""
+
+#: index.php:85
+msgid "Eventchamp Core"
+msgstr ""
+
+#: index.php:85
+msgid "PHP"
+msgstr ""
+
+#: like-system.php:261 like-system.php:281
+msgid "Unlike"
+msgstr ""
+
+#: like-system.php:266 like-system.php:281
+msgid "Like"
+msgstr ""
+
+#: like-system.php:281
+msgid "Thanks! You liked this."
+msgstr ""
+
+#: like-system.php:281
+msgid "This content removed from your likes."
+msgstr ""
+
+#: page-builder-elements.php:391
+msgid "Eventchamp Slider"
+msgstr ""
+
+#: page-builder-elements.php:393 page-builder-elements.php:1682
+#: page-builder-elements.php:3024 page-builder-elements.php:3584
+#: page-builder-elements.php:5078 page-builder-elements.php:6938
+#: page-builder-elements.php:7909 page-builder-elements.php:9067
+#: page-builder-elements.php:10222 page-builder-elements.php:11701
+#: page-builder-elements.php:12586 page-builder-elements.php:12870
+#: page-builder-elements.php:13485 page-builder-elements.php:14236
+#: page-builder-elements.php:14937 page-builder-elements.php:15623
+#: page-builder-elements.php:16402 page-builder-elements.php:16825
+#: page-builder-elements.php:17043 page-builder-elements.php:17296
+#: page-builder-elements.php:17515 page-builder-elements.php:17985
+#: page-builder-elements.php:18648 page-builder-elements.php:19122
+#: page-builder-elements.php:19432 page-builder-elements.php:19751
+#: page-builder-elements.php:20088 page-builder-elements.php:20230
+#: page-builder-elements.php:20402 page-builder-elements.php:20581
+#: page-builder-elements.php:20764 page-builder-elements.php:21034
+#: page-builder-elements.php:21252 page-builder-elements.php:21363
+#: page-builder-elements.php:21554 page-builder-elements.php:21715
+#: page-builder-elements.php:21780 page-builder-elements.php:21911
+#: page-builder-elements.php:22051 page-builder-elements.php:22081
+#: page-builder-elements.php:22541 page-builder-elements.php:22965
+msgid "Eventchamp Theme"
+msgstr ""
+
+#: page-builder-elements.php:395
+msgid "Eventchamp slider element."
+msgstr ""
+
+#: page-builder-elements.php:400
+msgid "Slides"
+msgstr ""
+
+#: page-builder-elements.php:401
+msgid "You can create slides from this panel."
+msgstr ""
+
+#: page-builder-elements.php:407 page-builder-elements.php:3031
+#: page-builder-elements.php:17050 page-builder-elements.php:20444
+msgid "Primary Title"
+msgstr ""
+
+#: page-builder-elements.php:408
+msgid "You can enter a primary title."
+msgstr ""
+
+#: page-builder-elements.php:415 page-builder-elements.php:3040
+#: page-builder-elements.php:17058 page-builder-elements.php:20452
+msgid "Secondary Title"
+msgstr ""
+
+#: page-builder-elements.php:416
+msgid "You can enter a secondary title."
+msgstr ""
+
+#: page-builder-elements.php:423 page-builder-elements.php:17335
+msgid "Subtitle"
+msgstr ""
+
+#: page-builder-elements.php:424 page-builder-elements.php:17336
+msgid "You can enter a subtitle."
+msgstr ""
+
+#: page-builder-elements.php:431 page-builder-elements.php:16903
+#: page-builder-elements.php:17342 page-builder-elements.php:17554
+#: page-builder-elements.php:21073 page-builder-elements.php:21955
+#: page-builder-elements.php:22088
+msgid "Text"
+msgstr ""
+
+#: page-builder-elements.php:432 page-builder-elements.php:3066
+#: page-builder-elements.php:16904 page-builder-elements.php:17343
+#: page-builder-elements.php:17555 page-builder-elements.php:20461
+#: page-builder-elements.php:21074 page-builder-elements.php:21956
+#: page-builder-elements.php:22089
+msgid "You can enter a text."
+msgstr ""
+
+#: page-builder-elements.php:438
+msgid "Button 1 Status"
+msgstr ""
+
+#: page-builder-elements.php:439
+msgid "You can choose status of the button 1."
+msgstr ""
+
+#: page-builder-elements.php:442 page-builder-elements.php:460
+#: page-builder-elements.php:562 page-builder-elements.php:613
+#: page-builder-elements.php:678 page-builder-elements.php:689
+#: page-builder-elements.php:707 page-builder-elements.php:743
+#: page-builder-elements.php:754 page-builder-elements.php:776
+#: page-builder-elements.php:1758 page-builder-elements.php:1834
+#: page-builder-elements.php:1860 page-builder-elements.php:1880
+#: page-builder-elements.php:1900 page-builder-elements.php:1912
+#: page-builder-elements.php:1924 page-builder-elements.php:1936
+#: page-builder-elements.php:1948 page-builder-elements.php:1968
+#: page-builder-elements.php:2044 page-builder-elements.php:2064
+#: page-builder-elements.php:2084 page-builder-elements.php:2123
+#: page-builder-elements.php:2135 page-builder-elements.php:2159
+#: page-builder-elements.php:3078 page-builder-elements.php:3114
+#: page-builder-elements.php:3218 page-builder-elements.php:3252
+#: page-builder-elements.php:3328 page-builder-elements.php:3348
+#: page-builder-elements.php:3368 page-builder-elements.php:3407
+#: page-builder-elements.php:3419 page-builder-elements.php:3443
+#: page-builder-elements.php:5136 page-builder-elements.php:5156
+#: page-builder-elements.php:5168 page-builder-elements.php:5180
+#: page-builder-elements.php:5200 page-builder-elements.php:5212
+#: page-builder-elements.php:5224 page-builder-elements.php:5290
+#: page-builder-elements.php:5356 page-builder-elements.php:5368
+#: page-builder-elements.php:5381 page-builder-elements.php:5393
+#: page-builder-elements.php:5405 page-builder-elements.php:5416
+#: page-builder-elements.php:5436 page-builder-elements.php:5448
+#: page-builder-elements.php:5460 page-builder-elements.php:5512
+#: page-builder-elements.php:5524 page-builder-elements.php:5631
+#: page-builder-elements.php:5643 page-builder-elements.php:5655
+#: page-builder-elements.php:5725 page-builder-elements.php:5745
+#: page-builder-elements.php:5765 page-builder-elements.php:5804
+#: page-builder-elements.php:7014 page-builder-elements.php:7026
+#: page-builder-elements.php:7131 page-builder-elements.php:7143
+#: page-builder-elements.php:7155 page-builder-elements.php:7167
+#: page-builder-elements.php:7179 page-builder-elements.php:7191
+#: page-builder-elements.php:7203 page-builder-elements.php:7215
+#: page-builder-elements.php:7227 page-builder-elements.php:7987
+#: page-builder-elements.php:8000 page-builder-elements.php:8012
+#: page-builder-elements.php:8119 page-builder-elements.php:8131
+#: page-builder-elements.php:8143 page-builder-elements.php:8155
+#: page-builder-elements.php:8167 page-builder-elements.php:8179
+#: page-builder-elements.php:8191 page-builder-elements.php:8203
+#: page-builder-elements.php:8215 page-builder-elements.php:9134
+#: page-builder-elements.php:9147 page-builder-elements.php:9254
+#: page-builder-elements.php:9266 page-builder-elements.php:9319
+#: page-builder-elements.php:9331 page-builder-elements.php:9343
+#: page-builder-elements.php:9355 page-builder-elements.php:9367
+#: page-builder-elements.php:9379 page-builder-elements.php:9391
+#: page-builder-elements.php:9403 page-builder-elements.php:9415
+#: page-builder-elements.php:9427 page-builder-elements.php:9439
+#: page-builder-elements.php:10300 page-builder-elements.php:10313
+#: page-builder-elements.php:10403 page-builder-elements.php:10415
+#: page-builder-elements.php:10427 page-builder-elements.php:10439
+#: page-builder-elements.php:10451 page-builder-elements.php:10463
+#: page-builder-elements.php:10475 page-builder-elements.php:10487
+#: page-builder-elements.php:10499 page-builder-elements.php:10511
+#: page-builder-elements.php:10562 page-builder-elements.php:10582
+#: page-builder-elements.php:10602 page-builder-elements.php:10641
+#: page-builder-elements.php:10653 page-builder-elements.php:11729
+#: page-builder-elements.php:11861 page-builder-elements.php:11881
+#: page-builder-elements.php:11893 page-builder-elements.php:11905
+#: page-builder-elements.php:11917 page-builder-elements.php:11929
+#: page-builder-elements.php:11941 page-builder-elements.php:11953
+#: page-builder-elements.php:11965 page-builder-elements.php:11977
+#: page-builder-elements.php:11989 page-builder-elements.php:12646
+#: page-builder-elements.php:12666 page-builder-elements.php:12678
+#: page-builder-elements.php:12690 page-builder-elements.php:12963
+#: page-builder-elements.php:12975 page-builder-elements.php:12987
+#: page-builder-elements.php:13016 page-builder-elements.php:13560
+#: page-builder-elements.php:13608 page-builder-elements.php:13620
+#: page-builder-elements.php:13632 page-builder-elements.php:14381
+#: page-builder-elements.php:14393 page-builder-elements.php:14451
+#: page-builder-elements.php:14463 page-builder-elements.php:14475
+#: page-builder-elements.php:14487 page-builder-elements.php:14499
+#: page-builder-elements.php:15007 page-builder-elements.php:15077
+#: page-builder-elements.php:15089 page-builder-elements.php:15768
+#: page-builder-elements.php:15780 page-builder-elements.php:15820
+#: page-builder-elements.php:15832 page-builder-elements.php:15844
+#: page-builder-elements.php:15856 page-builder-elements.php:16536
+#: page-builder-elements.php:16548 page-builder-elements.php:16560
+#: page-builder-elements.php:16611 page-builder-elements.php:16631
+#: page-builder-elements.php:16651 page-builder-elements.php:16690
+#: page-builder-elements.php:16702 page-builder-elements.php:16915
+#: page-builder-elements.php:16926 page-builder-elements.php:17374
+#: page-builder-elements.php:17399 page-builder-elements.php:18075
+#: page-builder-elements.php:18087 page-builder-elements.php:18113
+#: page-builder-elements.php:18125 page-builder-elements.php:18137
+#: page-builder-elements.php:18149 page-builder-elements.php:18740
+#: page-builder-elements.php:18789 page-builder-elements.php:18801
+#: page-builder-elements.php:18813 page-builder-elements.php:18825
+#: page-builder-elements.php:18860 page-builder-elements.php:18880
+#: page-builder-elements.php:18900 page-builder-elements.php:18939
+#: page-builder-elements.php:18951 page-builder-elements.php:19209
+#: page-builder-elements.php:19220 page-builder-elements.php:19231
+#: page-builder-elements.php:19242 page-builder-elements.php:19532
+#: page-builder-elements.php:19543 page-builder-elements.php:19554
+#: page-builder-elements.php:19565 page-builder-elements.php:19850
+#: page-builder-elements.php:19861 page-builder-elements.php:19872
+#: page-builder-elements.php:19883 page-builder-elements.php:20147
+#: page-builder-elements.php:20165 page-builder-elements.php:20201
+#: page-builder-elements.php:20212 page-builder-elements.php:20263
+#: page-builder-elements.php:20472 page-builder-elements.php:20826
+#: page-builder-elements.php:20844 page-builder-elements.php:20855
+#: page-builder-elements.php:20866 page-builder-elements.php:20877
+#: page-builder-elements.php:21084 page-builder-elements.php:21423
+#: page-builder-elements.php:21434 page-builder-elements.php:21619
+#: page-builder-elements.php:21631 page-builder-elements.php:21922
+#: page-builder-elements.php:21933 page-builder-elements.php:22627
+#: page-builder-elements.php:22639 page-builder-elements.php:22692
+#: page-builder-elements.php:22704 page-builder-elements.php:22716
+#: page-builder-elements.php:22728 page-builder-elements.php:22740
+#: page-builder-elements.php:22752 page-builder-elements.php:22764
+#: page-builder-elements.php:22776 page-builder-elements.php:22788
+#: page-builder-elements.php:22818 page-builder-elements.php:22830
+#: page-builder-elements.php:22842 page-builder-elements.php:22854
+#: page-builder-elements.php:22866 page-builder-elements.php:22983
+#: widgets.php:1348 widgets.php:1361 widgets.php:1369 widgets.php:1377
+#: widgets.php:1391 widgets.php:1399 widgets.php:1407 widgets.php:1455
+#: widgets.php:1503 widgets.php:1511 widgets.php:1519 widgets.php:1527
+#: widgets.php:1535 widgets.php:1543 widgets.php:1557 widgets.php:1565
+#: widgets.php:1573 widgets.php:1611 widgets.php:1619 widgets.php:1639
+#: widgets.php:1648 widgets.php:1656
+msgid "False"
+msgstr ""
+
+#: page-builder-elements.php:443 page-builder-elements.php:461
+#: page-builder-elements.php:563 page-builder-elements.php:679
+#: page-builder-elements.php:690 page-builder-elements.php:708
+#: page-builder-elements.php:744 page-builder-elements.php:755
+#: page-builder-elements.php:777 page-builder-elements.php:1759
+#: page-builder-elements.php:1861 page-builder-elements.php:1881
+#: page-builder-elements.php:1901 page-builder-elements.php:1913
+#: page-builder-elements.php:1925 page-builder-elements.php:1937
+#: page-builder-elements.php:1949 page-builder-elements.php:1969
+#: page-builder-elements.php:2045 page-builder-elements.php:2065
+#: page-builder-elements.php:2085 page-builder-elements.php:2124
+#: page-builder-elements.php:2136 page-builder-elements.php:2160
+#: page-builder-elements.php:3079 page-builder-elements.php:3115
+#: page-builder-elements.php:3253 page-builder-elements.php:3329
+#: page-builder-elements.php:3349 page-builder-elements.php:3369
+#: page-builder-elements.php:3408 page-builder-elements.php:3420
+#: page-builder-elements.php:3444 page-builder-elements.php:5137
+#: page-builder-elements.php:5157 page-builder-elements.php:5169
+#: page-builder-elements.php:5181 page-builder-elements.php:5201
+#: page-builder-elements.php:5213 page-builder-elements.php:5225
+#: page-builder-elements.php:5291 page-builder-elements.php:5357
+#: page-builder-elements.php:5369 page-builder-elements.php:5380
+#: page-builder-elements.php:5392 page-builder-elements.php:5404
+#: page-builder-elements.php:5417 page-builder-elements.php:5437
+#: page-builder-elements.php:5449 page-builder-elements.php:5461
+#: page-builder-elements.php:5513 page-builder-elements.php:5525
+#: page-builder-elements.php:5630 page-builder-elements.php:5642
+#: page-builder-elements.php:5654 page-builder-elements.php:5726
+#: page-builder-elements.php:5746 page-builder-elements.php:5766
+#: page-builder-elements.php:5805 page-builder-elements.php:7015
+#: page-builder-elements.php:7027 page-builder-elements.php:7132
+#: page-builder-elements.php:7144 page-builder-elements.php:7156
+#: page-builder-elements.php:7168 page-builder-elements.php:7180
+#: page-builder-elements.php:7192 page-builder-elements.php:7204
+#: page-builder-elements.php:7216 page-builder-elements.php:7228
+#: page-builder-elements.php:7988 page-builder-elements.php:8001
+#: page-builder-elements.php:8013 page-builder-elements.php:8120
+#: page-builder-elements.php:8132 page-builder-elements.php:8144
+#: page-builder-elements.php:8156 page-builder-elements.php:8168
+#: page-builder-elements.php:8180 page-builder-elements.php:8192
+#: page-builder-elements.php:8204 page-builder-elements.php:8216
+#: page-builder-elements.php:9135 page-builder-elements.php:9148
+#: page-builder-elements.php:9253 page-builder-elements.php:9265
+#: page-builder-elements.php:9320 page-builder-elements.php:9332
+#: page-builder-elements.php:9344 page-builder-elements.php:9356
+#: page-builder-elements.php:9368 page-builder-elements.php:9380
+#: page-builder-elements.php:9392 page-builder-elements.php:9404
+#: page-builder-elements.php:9416 page-builder-elements.php:9428
+#: page-builder-elements.php:9440 page-builder-elements.php:10301
+#: page-builder-elements.php:10314 page-builder-elements.php:10404
+#: page-builder-elements.php:10416 page-builder-elements.php:10428
+#: page-builder-elements.php:10440 page-builder-elements.php:10452
+#: page-builder-elements.php:10464 page-builder-elements.php:10476
+#: page-builder-elements.php:10488 page-builder-elements.php:10500
+#: page-builder-elements.php:10512 page-builder-elements.php:10563
+#: page-builder-elements.php:10583 page-builder-elements.php:10603
+#: page-builder-elements.php:10642 page-builder-elements.php:10654
+#: page-builder-elements.php:11730 page-builder-elements.php:11862
+#: page-builder-elements.php:11882 page-builder-elements.php:11894
+#: page-builder-elements.php:11906 page-builder-elements.php:11918
+#: page-builder-elements.php:11930 page-builder-elements.php:11942
+#: page-builder-elements.php:11954 page-builder-elements.php:11966
+#: page-builder-elements.php:11978 page-builder-elements.php:11990
+#: page-builder-elements.php:12647 page-builder-elements.php:12667
+#: page-builder-elements.php:12679 page-builder-elements.php:12691
+#: page-builder-elements.php:12962 page-builder-elements.php:12974
+#: page-builder-elements.php:12986 page-builder-elements.php:13015
+#: page-builder-elements.php:13561 page-builder-elements.php:13609
+#: page-builder-elements.php:13621 page-builder-elements.php:13633
+#: page-builder-elements.php:14380 page-builder-elements.php:14392
+#: page-builder-elements.php:14452 page-builder-elements.php:14464
+#: page-builder-elements.php:14476 page-builder-elements.php:14488
+#: page-builder-elements.php:14500 page-builder-elements.php:15008
+#: page-builder-elements.php:15078 page-builder-elements.php:15090
+#: page-builder-elements.php:15767 page-builder-elements.php:15779
+#: page-builder-elements.php:15821 page-builder-elements.php:15833
+#: page-builder-elements.php:15845 page-builder-elements.php:15857
+#: page-builder-elements.php:16537 page-builder-elements.php:16549
+#: page-builder-elements.php:16561 page-builder-elements.php:16612
+#: page-builder-elements.php:16632 page-builder-elements.php:16652
+#: page-builder-elements.php:16691 page-builder-elements.php:16703
+#: page-builder-elements.php:16916 page-builder-elements.php:16927
+#: page-builder-elements.php:17375 page-builder-elements.php:17400
+#: page-builder-elements.php:18076 page-builder-elements.php:18088
+#: page-builder-elements.php:18114 page-builder-elements.php:18126
+#: page-builder-elements.php:18138 page-builder-elements.php:18150
+#: page-builder-elements.php:18741 page-builder-elements.php:18790
+#: page-builder-elements.php:18802 page-builder-elements.php:18814
+#: page-builder-elements.php:18826 page-builder-elements.php:18861
+#: page-builder-elements.php:18881 page-builder-elements.php:18901
+#: page-builder-elements.php:18940 page-builder-elements.php:18952
+#: page-builder-elements.php:19210 page-builder-elements.php:19221
+#: page-builder-elements.php:19232 page-builder-elements.php:19243
+#: page-builder-elements.php:19533 page-builder-elements.php:19544
+#: page-builder-elements.php:19555 page-builder-elements.php:19566
+#: page-builder-elements.php:19851 page-builder-elements.php:19862
+#: page-builder-elements.php:19873 page-builder-elements.php:19884
+#: page-builder-elements.php:20148 page-builder-elements.php:20166
+#: page-builder-elements.php:20202 page-builder-elements.php:20213
+#: page-builder-elements.php:20264 page-builder-elements.php:20471
+#: page-builder-elements.php:20827 page-builder-elements.php:20845
+#: page-builder-elements.php:20856 page-builder-elements.php:20867
+#: page-builder-elements.php:20878 page-builder-elements.php:21085
+#: page-builder-elements.php:21424 page-builder-elements.php:21435
+#: page-builder-elements.php:21620 page-builder-elements.php:21632
+#: page-builder-elements.php:21923 page-builder-elements.php:21934
+#: page-builder-elements.php:22628 page-builder-elements.php:22640
+#: page-builder-elements.php:22693 page-builder-elements.php:22705
+#: page-builder-elements.php:22717 page-builder-elements.php:22729
+#: page-builder-elements.php:22741 page-builder-elements.php:22753
+#: page-builder-elements.php:22765 page-builder-elements.php:22777
+#: page-builder-elements.php:22789 page-builder-elements.php:22819
+#: page-builder-elements.php:22831 page-builder-elements.php:22843
+#: page-builder-elements.php:22855 page-builder-elements.php:22867
+#: page-builder-elements.php:22984 widgets.php:1349 widgets.php:1362
+#: widgets.php:1370 widgets.php:1378 widgets.php:1392 widgets.php:1400
+#: widgets.php:1408 widgets.php:1456 widgets.php:1504 widgets.php:1512
+#: widgets.php:1520 widgets.php:1528 widgets.php:1536 widgets.php:1544
+#: widgets.php:1558 widgets.php:1566 widgets.php:1574 widgets.php:1612
+#: widgets.php:1620 widgets.php:1640 widgets.php:1649 widgets.php:1657
+msgid "True"
+msgstr ""
+
+#: page-builder-elements.php:449
+msgid "Button 1"
+msgstr ""
+
+#: page-builder-elements.php:450 page-builder-elements.php:468
+msgid "You can create a button."
+msgstr ""
+
+#: page-builder-elements.php:456
+msgid "Button 2 Status"
+msgstr ""
+
+#: page-builder-elements.php:457
+msgid "You can choose status of the button 2."
+msgstr ""
+
+#: page-builder-elements.php:467
+msgid "Button 2"
+msgstr ""
+
+#: page-builder-elements.php:474
+msgid "Background Image"
+msgstr ""
+
+#: page-builder-elements.php:475
+msgid "You can upload a background image. Recommended size: 1920x1100"
+msgstr ""
+
+#: page-builder-elements.php:481
+msgid "Background Image Position"
+msgstr ""
+
+#: page-builder-elements.php:482
+msgid "You can choose a background image position. Default: Center Center."
+msgstr ""
+
+#: page-builder-elements.php:485 page-builder-elements.php:506
+#: page-builder-elements.php:521 page-builder-elements.php:536
+msgid "Default"
+msgstr ""
+
+#: page-builder-elements.php:486 page-builder-elements.php:507
+#: page-builder-elements.php:522 page-builder-elements.php:537
+msgid "Initial"
+msgstr ""
+
+#: page-builder-elements.php:487 page-builder-elements.php:508
+#: page-builder-elements.php:523 page-builder-elements.php:538
+msgid "Inherit"
+msgstr ""
+
+#: page-builder-elements.php:488
+msgid "Center Center"
+msgstr ""
+
+#: page-builder-elements.php:489
+msgid "Center Top"
+msgstr ""
+
+#: page-builder-elements.php:490
+msgid "Center Bottom"
+msgstr ""
+
+#: page-builder-elements.php:491
+msgid "Left Top"
+msgstr ""
+
+#: page-builder-elements.php:492
+msgid "Left Center"
+msgstr ""
+
+#: page-builder-elements.php:493
+msgid "Left Bottom"
+msgstr ""
+
+#: page-builder-elements.php:494
+msgid "Right Top"
+msgstr ""
+
+#: page-builder-elements.php:495
+msgid "Right Center"
+msgstr ""
+
+#: page-builder-elements.php:496
+msgid "Right Bottom"
+msgstr ""
+
+#: page-builder-elements.php:502
+msgid "Background Image Attachment"
+msgstr ""
+
+#: page-builder-elements.php:503
+msgid "You can choose a background image attachment. Default: Scroll"
+msgstr ""
+
+#: page-builder-elements.php:509
+msgid "Scroll"
+msgstr ""
+
+#: page-builder-elements.php:510
+msgid "Fixed"
+msgstr ""
+
+#: page-builder-elements.php:511
+msgid "Local"
+msgstr ""
+
+#: page-builder-elements.php:517
+msgid "Background Image Size"
+msgstr ""
+
+#: page-builder-elements.php:518
+msgid "You can choose a background image size. Default: Cover"
+msgstr ""
+
+#: page-builder-elements.php:524
+msgid "Auto"
+msgstr ""
+
+#: page-builder-elements.php:525
+msgid "Cover"
+msgstr ""
+
+#: page-builder-elements.php:526
+msgid "Contain"
+msgstr ""
+
+#: page-builder-elements.php:532
+msgid "Background Image Repeat"
+msgstr ""
+
+#: page-builder-elements.php:533
+msgid "You can choose a background image repeat. Default: No Repeat"
+msgstr ""
+
+#: page-builder-elements.php:539
+msgid "Repeat"
+msgstr ""
+
+#: page-builder-elements.php:540
+msgid "Repeat X"
+msgstr ""
+
+#: page-builder-elements.php:541
+msgid "Repeat Y"
+msgstr ""
+
+#: page-builder-elements.php:542
+msgid "No Repeat"
+msgstr ""
+
+#: page-builder-elements.php:543
+msgid "Space"
+msgstr ""
+
+#: page-builder-elements.php:544
+msgid "Round"
+msgstr ""
+
+#: page-builder-elements.php:550 page-builder-elements.php:20270
+msgid "Slide Autoplay Delay"
+msgstr ""
+
+#: page-builder-elements.php:551
+msgid "You can enter an autoplay delay. Default: 15000"
+msgstr ""
+
+#: page-builder-elements.php:557 page-builder-elements.php:1963
+#: page-builder-elements.php:3247
+msgid "Opacity"
+msgstr ""
+
+#: page-builder-elements.php:558 page-builder-elements.php:1964
+#: page-builder-elements.php:3248
+msgid "You can choose status of the opacity."
+msgstr ""
+
+#: page-builder-elements.php:559 page-builder-elements.php:571
+#: page-builder-elements.php:601 page-builder-elements.php:1831
+#: page-builder-elements.php:1849 page-builder-elements.php:1857
+#: page-builder-elements.php:1869 page-builder-elements.php:1877
+#: page-builder-elements.php:1889 page-builder-elements.php:1897
+#: page-builder-elements.php:1909 page-builder-elements.php:1921
+#: page-builder-elements.php:1933 page-builder-elements.php:1945
+#: page-builder-elements.php:1957 page-builder-elements.php:1965
+#: page-builder-elements.php:1977 page-builder-elements.php:1997
+#: page-builder-elements.php:3195 page-builder-elements.php:3203
+#: page-builder-elements.php:3215 page-builder-elements.php:3233
+#: page-builder-elements.php:3241 page-builder-elements.php:3249
+#: page-builder-elements.php:3261 page-builder-elements.php:3281
+#: page-builder-elements.php:5087 page-builder-elements.php:5103
+#: page-builder-elements.php:5124 page-builder-elements.php:7099
+#: page-builder-elements.php:7112 page-builder-elements.php:7128
+#: page-builder-elements.php:7140 page-builder-elements.php:7152
+#: page-builder-elements.php:7164 page-builder-elements.php:7176
+#: page-builder-elements.php:7188 page-builder-elements.php:7200
+#: page-builder-elements.php:7212 page-builder-elements.php:7224
+#: page-builder-elements.php:8085 page-builder-elements.php:8099
+#: page-builder-elements.php:8116 page-builder-elements.php:8128
+#: page-builder-elements.php:8140 page-builder-elements.php:8152
+#: page-builder-elements.php:8164 page-builder-elements.php:8176
+#: page-builder-elements.php:8188 page-builder-elements.php:8200
+#: page-builder-elements.php:8212 page-builder-elements.php:9274
+#: page-builder-elements.php:9287 page-builder-elements.php:9300
+#: page-builder-elements.php:9316 page-builder-elements.php:9328
+#: page-builder-elements.php:9340 page-builder-elements.php:9352
+#: page-builder-elements.php:9364 page-builder-elements.php:9376
+#: page-builder-elements.php:9388 page-builder-elements.php:9400
+#: page-builder-elements.php:9412 page-builder-elements.php:9424
+#: page-builder-elements.php:9436 page-builder-elements.php:10386
+#: page-builder-elements.php:10400 page-builder-elements.php:10412
+#: page-builder-elements.php:10424 page-builder-elements.php:10436
+#: page-builder-elements.php:10448 page-builder-elements.php:10460
+#: page-builder-elements.php:10472 page-builder-elements.php:10484
+#: page-builder-elements.php:10496 page-builder-elements.php:10508
+#: page-builder-elements.php:11926 page-builder-elements.php:11938
+#: page-builder-elements.php:11950 page-builder-elements.php:11962
+#: page-builder-elements.php:11974 page-builder-elements.php:11986
+#: page-builder-elements.php:13569 page-builder-elements.php:13588
+#: page-builder-elements.php:13605 page-builder-elements.php:13617
+#: page-builder-elements.php:13629 page-builder-elements.php:14401
+#: page-builder-elements.php:14414 page-builder-elements.php:14432
+#: page-builder-elements.php:14448 page-builder-elements.php:14460
+#: page-builder-elements.php:14472 page-builder-elements.php:14484
+#: page-builder-elements.php:14496 page-builder-elements.php:15058
+#: page-builder-elements.php:15074 page-builder-elements.php:15086
+#: page-builder-elements.php:15788 page-builder-elements.php:15801
+#: page-builder-elements.php:15817 page-builder-elements.php:15829
+#: page-builder-elements.php:15841 page-builder-elements.php:15853
+#: page-builder-elements.php:16521 page-builder-elements.php:16533
+#: page-builder-elements.php:16545 page-builder-elements.php:16557
+#: page-builder-elements.php:18096 page-builder-elements.php:18110
+#: page-builder-elements.php:18122 page-builder-elements.php:18134
+#: page-builder-elements.php:18146 page-builder-elements.php:18749
+#: page-builder-elements.php:18779 page-builder-elements.php:18786
+#: page-builder-elements.php:18798 page-builder-elements.php:18810
+#: page-builder-elements.php:18822 page-builder-elements.php:22648
+#: page-builder-elements.php:22660
+msgid "Design"
+msgstr ""
+
+#: page-builder-elements.php:569 page-builder-elements.php:1975
+#: page-builder-elements.php:3259
+msgid "Opacity Value"
+msgstr ""
+
+#: page-builder-elements.php:570 page-builder-elements.php:1976
+#: page-builder-elements.php:3260
+msgid "You can choose an opacity value. Default: 0.3."
+msgstr ""
+
+#: page-builder-elements.php:574 page-builder-elements.php:12942
+#: page-builder-elements.php:13059 page-builder-elements.php:13115
+#: page-builder-elements.php:13152 page-builder-elements.php:16873
+#: page-builder-elements.php:22999 page-builder-elements.php:23015
+msgid "5"
+msgstr ""
+
+#: page-builder-elements.php:575 page-builder-elements.php:1980
+#: page-builder-elements.php:3264 page-builder-elements.php:12943
+#: page-builder-elements.php:13060 page-builder-elements.php:13116
+#: page-builder-elements.php:13153 page-builder-elements.php:16874
+#: page-builder-elements.php:23004 page-builder-elements.php:23016
+msgid "10"
+msgstr ""
+
+#: page-builder-elements.php:576 page-builder-elements.php:12944
+#: page-builder-elements.php:13061 page-builder-elements.php:13117
+#: page-builder-elements.php:13154 page-builder-elements.php:16875
+#: page-builder-elements.php:23017
+msgid "15"
+msgstr ""
+
+#: page-builder-elements.php:577 page-builder-elements.php:1981
+#: page-builder-elements.php:3265 page-builder-elements.php:12945
+#: page-builder-elements.php:13062 page-builder-elements.php:13118
+#: page-builder-elements.php:13155 page-builder-elements.php:16876
+#: page-builder-elements.php:23018
+msgid "20"
+msgstr ""
+
+#: page-builder-elements.php:578 page-builder-elements.php:12946
+#: page-builder-elements.php:13063 page-builder-elements.php:13119
+#: page-builder-elements.php:13156 page-builder-elements.php:16877
+#: page-builder-elements.php:23019
+msgid "25"
+msgstr ""
+
+#: page-builder-elements.php:579 page-builder-elements.php:1982
+#: page-builder-elements.php:3266 page-builder-elements.php:12947
+#: page-builder-elements.php:13064 page-builder-elements.php:13120
+#: page-builder-elements.php:13157 page-builder-elements.php:16878
+#: page-builder-elements.php:23020
+msgid "30"
+msgstr ""
+
+#: page-builder-elements.php:580 page-builder-elements.php:12948
+#: page-builder-elements.php:13065 page-builder-elements.php:13121
+#: page-builder-elements.php:13158 page-builder-elements.php:16879
+#: page-builder-elements.php:23021
+msgid "35"
+msgstr ""
+
+#: page-builder-elements.php:581 page-builder-elements.php:1983
+#: page-builder-elements.php:3267 page-builder-elements.php:12949
+#: page-builder-elements.php:13066 page-builder-elements.php:13122
+#: page-builder-elements.php:13159 page-builder-elements.php:16880
+#: page-builder-elements.php:23022
+msgid "40"
+msgstr ""
+
+#: page-builder-elements.php:582 page-builder-elements.php:12950
+#: page-builder-elements.php:13067 page-builder-elements.php:13123
+#: page-builder-elements.php:13160 page-builder-elements.php:16881
+#: page-builder-elements.php:23023
+msgid "45"
+msgstr ""
+
+#: page-builder-elements.php:583 page-builder-elements.php:1984
+#: page-builder-elements.php:3268 page-builder-elements.php:12951
+#: page-builder-elements.php:13068 page-builder-elements.php:13124
+#: page-builder-elements.php:13161 page-builder-elements.php:16882
+#: page-builder-elements.php:23024
+msgid "50"
+msgstr ""
+
+#: page-builder-elements.php:584 page-builder-elements.php:23025
+msgid "55"
+msgstr ""
+
+#: page-builder-elements.php:585 page-builder-elements.php:1985
+#: page-builder-elements.php:3269 page-builder-elements.php:23026
+msgid "60"
+msgstr ""
+
+#: page-builder-elements.php:586
+msgid "65"
+msgstr ""
+
+#: page-builder-elements.php:587 page-builder-elements.php:1986
+#: page-builder-elements.php:3270
+msgid "70"
+msgstr ""
+
+#: page-builder-elements.php:588
+msgid "75"
+msgstr ""
+
+#: page-builder-elements.php:589 page-builder-elements.php:1987
+#: page-builder-elements.php:3271
+msgid "80"
+msgstr ""
+
+#: page-builder-elements.php:590
+msgid "85"
+msgstr ""
+
+#: page-builder-elements.php:591 page-builder-elements.php:1988
+#: page-builder-elements.php:3272
+msgid "90"
+msgstr ""
+
+#: page-builder-elements.php:592
+msgid "95"
+msgstr ""
+
+#: page-builder-elements.php:593 page-builder-elements.php:1989
+#: page-builder-elements.php:3273
+msgid "100"
+msgstr ""
+
+#: page-builder-elements.php:599 page-builder-elements.php:1995
+#: page-builder-elements.php:3279
+msgid "Opacity Color"
+msgstr ""
+
+#: page-builder-elements.php:600 page-builder-elements.php:1996
+#: page-builder-elements.php:3280
+msgid "You can choose a color for the separator. Default: #000000"
+msgstr ""
+
+#: page-builder-elements.php:609 page-builder-elements.php:1829
+#: page-builder-elements.php:3213 page-builder-elements.php:20467
+msgid "Separator"
+msgstr ""
+
+#: page-builder-elements.php:610 page-builder-elements.php:1830
+#: page-builder-elements.php:3214
+msgid "You can choose style of the separator."
+msgstr ""
+
+#: page-builder-elements.php:614 page-builder-elements.php:765
+#: page-builder-elements.php:787 page-builder-elements.php:1835
+#: page-builder-elements.php:2147 page-builder-elements.php:2171
+#: page-builder-elements.php:3206 page-builder-elements.php:3219
+#: page-builder-elements.php:3431 page-builder-elements.php:3596
+#: page-builder-elements.php:5091 page-builder-elements.php:7102
+#: page-builder-elements.php:8089 page-builder-elements.php:9290
+#: page-builder-elements.php:10390 page-builder-elements.php:11813
+#: page-builder-elements.php:12598 page-builder-elements.php:12909
+#: page-builder-elements.php:12998 page-builder-elements.php:13027
+#: page-builder-elements.php:13079 page-builder-elements.php:13172
+#: page-builder-elements.php:13573 page-builder-elements.php:14417
+#: page-builder-elements.php:16524 page-builder-elements.php:16837
+#: page-builder-elements.php:17308 page-builder-elements.php:17527
+#: page-builder-elements.php:18099 page-builder-elements.php:18753
+#: page-builder-elements.php:19134 page-builder-elements.php:19444
+#: page-builder-elements.php:19776 page-builder-elements.php:20414
+#: page-builder-elements.php:20592 page-builder-elements.php:20782
+#: page-builder-elements.php:21375 page-builder-elements.php:21566
+#: page-builder-elements.php:21726 page-builder-elements.php:21791
+#: page-builder-elements.php:22063 page-builder-elements.php:22679
+#: page-builder-elements.php:22800 widgets.php:462 widgets.php:672
+#: widgets.php:1000 widgets.php:1326
+msgid "Style 1"
+msgstr ""
+
+#: page-builder-elements.php:615 page-builder-elements.php:766
+#: page-builder-elements.php:788 page-builder-elements.php:1836
+#: page-builder-elements.php:2148 page-builder-elements.php:2172
+#: page-builder-elements.php:3207 page-builder-elements.php:3220
+#: page-builder-elements.php:3432 page-builder-elements.php:3597
+#: page-builder-elements.php:5092 page-builder-elements.php:7103
+#: page-builder-elements.php:8090 page-builder-elements.php:9291
+#: page-builder-elements.php:10391 page-builder-elements.php:11814
+#: page-builder-elements.php:12599 page-builder-elements.php:12910
+#: page-builder-elements.php:12999 page-builder-elements.php:13028
+#: page-builder-elements.php:13080 page-builder-elements.php:13173
+#: page-builder-elements.php:13574 page-builder-elements.php:14418
+#: page-builder-elements.php:16525 page-builder-elements.php:16838
+#: page-builder-elements.php:17309 page-builder-elements.php:17528
+#: page-builder-elements.php:18100 page-builder-elements.php:18754
+#: page-builder-elements.php:19135 page-builder-elements.php:19445
+#: page-builder-elements.php:19777 page-builder-elements.php:20415
+#: page-builder-elements.php:20593 page-builder-elements.php:20783
+#: page-builder-elements.php:21376 page-builder-elements.php:21567
+#: page-builder-elements.php:21727 page-builder-elements.php:21792
+#: page-builder-elements.php:22064 page-builder-elements.php:22680
+#: page-builder-elements.php:22801 widgets.php:463 widgets.php:673
+#: widgets.php:1001 widgets.php:1327
+msgid "Style 2"
+msgstr ""
+
+#: page-builder-elements.php:616 page-builder-elements.php:1837
+#: page-builder-elements.php:3221 page-builder-elements.php:3598
+#: page-builder-elements.php:5093 page-builder-elements.php:7104
+#: page-builder-elements.php:8091 page-builder-elements.php:9292
+#: page-builder-elements.php:10392 page-builder-elements.php:11815
+#: page-builder-elements.php:12911 page-builder-elements.php:13000
+#: page-builder-elements.php:13029 page-builder-elements.php:13081
+#: page-builder-elements.php:13174 page-builder-elements.php:13575
+#: page-builder-elements.php:14419 page-builder-elements.php:16839
+#: page-builder-elements.php:18101 page-builder-elements.php:18755
+#: page-builder-elements.php:19136 page-builder-elements.php:19446
+#: page-builder-elements.php:19778 page-builder-elements.php:20784
+#: page-builder-elements.php:21377 page-builder-elements.php:21568
+#: page-builder-elements.php:21793 page-builder-elements.php:22681
+#: page-builder-elements.php:22802 widgets.php:464 widgets.php:1002
+#: widgets.php:1328
+msgid "Style 3"
+msgstr ""
+
+#: page-builder-elements.php:617 page-builder-elements.php:1838
+#: page-builder-elements.php:3222 page-builder-elements.php:3599
+#: page-builder-elements.php:5094 page-builder-elements.php:11816
+#: page-builder-elements.php:12912 page-builder-elements.php:13001
+#: page-builder-elements.php:13030 page-builder-elements.php:13082
+#: page-builder-elements.php:13175 page-builder-elements.php:13576
+#: page-builder-elements.php:14420 page-builder-elements.php:16840
+#: page-builder-elements.php:18102 page-builder-elements.php:19137
+#: page-builder-elements.php:19447 page-builder-elements.php:19779
+#: page-builder-elements.php:20785 page-builder-elements.php:21378
+#: page-builder-elements.php:21569 page-builder-elements.php:21794
+#: page-builder-elements.php:22803 widgets.php:465 widgets.php:1003
+#: widgets.php:1329
+msgid "Style 4"
+msgstr ""
+
+#: page-builder-elements.php:618 page-builder-elements.php:1839
+#: page-builder-elements.php:3223 page-builder-elements.php:5095
+#: page-builder-elements.php:11817 page-builder-elements.php:12913
+#: page-builder-elements.php:13002 page-builder-elements.php:13031
+#: page-builder-elements.php:13083 page-builder-elements.php:13176
+#: page-builder-elements.php:13577 page-builder-elements.php:14421
+#: page-builder-elements.php:16841 page-builder-elements.php:19138
+#: page-builder-elements.php:20786 page-builder-elements.php:21379
+#: page-builder-elements.php:21570 page-builder-elements.php:21795
+#: page-builder-elements.php:22804 widgets.php:1004 widgets.php:1330
+msgid "Style 5"
+msgstr ""
+
+#: page-builder-elements.php:619 page-builder-elements.php:1840
+#: page-builder-elements.php:3224 page-builder-elements.php:11818
+#: page-builder-elements.php:12914 page-builder-elements.php:13003
+#: page-builder-elements.php:13032 page-builder-elements.php:13177
+#: page-builder-elements.php:13578 page-builder-elements.php:14422
+#: page-builder-elements.php:20787 page-builder-elements.php:21380
+#: page-builder-elements.php:21571 page-builder-elements.php:21796
+#: page-builder-elements.php:22805 widgets.php:1005
+msgid "Style 6"
+msgstr ""
+
+#: page-builder-elements.php:620 page-builder-elements.php:1841
+#: page-builder-elements.php:3225 page-builder-elements.php:11819
+#: page-builder-elements.php:12915 page-builder-elements.php:13004
+#: page-builder-elements.php:13033 page-builder-elements.php:13178
+#: page-builder-elements.php:13579 page-builder-elements.php:14423
+#: page-builder-elements.php:20788 page-builder-elements.php:21797
+#: page-builder-elements.php:22806 widgets.php:1006
+msgid "Style 7"
+msgstr ""
+
+#: page-builder-elements.php:626 page-builder-elements.php:1847
+#: page-builder-elements.php:3231
+msgid "Separator Color"
+msgstr ""
+
+#: page-builder-elements.php:627 page-builder-elements.php:1848
+#: page-builder-elements.php:3232
+msgid "You can choose a color for the separator. Default: #FFFFFF"
+msgstr ""
+
+#: page-builder-elements.php:633 page-builder-elements.php:1955
+#: page-builder-elements.php:3239 page-builder-elements.php:5669
+msgid "Slider Height"
+msgstr ""
+
+#: page-builder-elements.php:634 page-builder-elements.php:1956
+#: page-builder-elements.php:3240
+msgid ""
+"Enter a slider height. Example: 600px. If enter blank, it will have full "
+"height."
+msgstr ""
+
+#: page-builder-elements.php:640 page-builder-elements.php:2003
+#: page-builder-elements.php:3287 page-builder-elements.php:5101
+#: page-builder-elements.php:5677 page-builder-elements.php:7110
+#: page-builder-elements.php:8097 page-builder-elements.php:9298
+#: page-builder-elements.php:10518 page-builder-elements.php:13586
+#: page-builder-elements.php:14430 page-builder-elements.php:15056
+#: page-builder-elements.php:15799 page-builder-elements.php:16567
+#: page-builder-elements.php:16847 page-builder-elements.php:18761
+#: page-builder-elements.php:20107 page-builder-elements.php:22990
+#: widgets.php:1335
+msgid "Column"
+msgstr ""
+
+#: page-builder-elements.php:641 page-builder-elements.php:2004
+#: page-builder-elements.php:3288 page-builder-elements.php:5102
+#: page-builder-elements.php:5678 page-builder-elements.php:7111
+#: page-builder-elements.php:8098 page-builder-elements.php:9299
+#: page-builder-elements.php:10519 page-builder-elements.php:12923
+#: page-builder-elements.php:13040 page-builder-elements.php:13090
+#: page-builder-elements.php:13131 page-builder-elements.php:13587
+#: page-builder-elements.php:14431 page-builder-elements.php:15057
+#: page-builder-elements.php:15800 page-builder-elements.php:16568
+#: page-builder-elements.php:16848 page-builder-elements.php:18762
+#: page-builder-elements.php:20108 page-builder-elements.php:22659
+#: page-builder-elements.php:22991
+msgid "You can choose a column."
+msgstr ""
+
+#: page-builder-elements.php:644 page-builder-elements.php:2008
+#: page-builder-elements.php:3292 page-builder-elements.php:5107
+#: page-builder-elements.php:5682 page-builder-elements.php:7115
+#: page-builder-elements.php:8103 page-builder-elements.php:9303
+#: page-builder-elements.php:10523 page-builder-elements.php:12927
+#: page-builder-elements.php:13044 page-builder-elements.php:13094
+#: page-builder-elements.php:13135 page-builder-elements.php:13592
+#: page-builder-elements.php:14435 page-builder-elements.php:15061
+#: page-builder-elements.php:15804 page-builder-elements.php:16572
+#: page-builder-elements.php:16852 page-builder-elements.php:18766
+#: page-builder-elements.php:20112 page-builder-elements.php:22663
+msgid "1 Column"
+msgstr ""
+
+#: page-builder-elements.php:645 page-builder-elements.php:2009
+#: page-builder-elements.php:3293 page-builder-elements.php:5108
+#: page-builder-elements.php:5683 page-builder-elements.php:7116
+#: page-builder-elements.php:8104 page-builder-elements.php:9304
+#: page-builder-elements.php:10524 page-builder-elements.php:12928
+#: page-builder-elements.php:13045 page-builder-elements.php:13095
+#: page-builder-elements.php:13136 page-builder-elements.php:13593
+#: page-builder-elements.php:14436 page-builder-elements.php:15062
+#: page-builder-elements.php:15805 page-builder-elements.php:16573
+#: page-builder-elements.php:16853 page-builder-elements.php:18767
+#: page-builder-elements.php:20113 page-builder-elements.php:22664
+msgid "2 Column"
+msgstr ""
+
+#: page-builder-elements.php:646 page-builder-elements.php:2010
+#: page-builder-elements.php:3294 page-builder-elements.php:5109
+#: page-builder-elements.php:5684 page-builder-elements.php:7117
+#: page-builder-elements.php:8105 page-builder-elements.php:9305
+#: page-builder-elements.php:10525 page-builder-elements.php:12929
+#: page-builder-elements.php:13046 page-builder-elements.php:13096
+#: page-builder-elements.php:13137 page-builder-elements.php:13594
+#: page-builder-elements.php:14437 page-builder-elements.php:15063
+#: page-builder-elements.php:15806 page-builder-elements.php:16574
+#: page-builder-elements.php:16854 page-builder-elements.php:18768
+#: page-builder-elements.php:20114 page-builder-elements.php:22665
+msgid "3 Column"
+msgstr ""
+
+#: page-builder-elements.php:652 page-builder-elements.php:2016
+#: page-builder-elements.php:3300 page-builder-elements.php:5697
+#: page-builder-elements.php:10534 page-builder-elements.php:16583
+#: page-builder-elements.php:16867 page-builder-elements.php:18832
+#: page-builder-elements.php:20121 page-builder-elements.php:23010
+msgid "Column Space"
+msgstr ""
+
+#: page-builder-elements.php:653 page-builder-elements.php:2017
+#: page-builder-elements.php:3301 page-builder-elements.php:5698
+#: page-builder-elements.php:10535 page-builder-elements.php:16584
+#: page-builder-elements.php:18833 page-builder-elements.php:20122
+msgid "You can choose a space value for space between the slides."
+msgstr ""
+
+#: page-builder-elements.php:656 page-builder-elements.php:2021
+#: page-builder-elements.php:3305 page-builder-elements.php:5702
+#: page-builder-elements.php:10539 page-builder-elements.php:16588
+#: page-builder-elements.php:18837 page-builder-elements.php:20125
+msgid "0px"
+msgstr ""
+
+#: page-builder-elements.php:657 page-builder-elements.php:2022
+#: page-builder-elements.php:3306 page-builder-elements.php:5703
+#: page-builder-elements.php:10540 page-builder-elements.php:16589
+#: page-builder-elements.php:18838 page-builder-elements.php:20126
+msgid "1px"
+msgstr ""
+
+#: page-builder-elements.php:658 page-builder-elements.php:2023
+#: page-builder-elements.php:3307 page-builder-elements.php:5704
+#: page-builder-elements.php:10541 page-builder-elements.php:16590
+#: page-builder-elements.php:18839 page-builder-elements.php:20127
+msgid "2px"
+msgstr ""
+
+#: page-builder-elements.php:659 page-builder-elements.php:2024
+#: page-builder-elements.php:3308 page-builder-elements.php:5705
+#: page-builder-elements.php:10542 page-builder-elements.php:16591
+#: page-builder-elements.php:18840 page-builder-elements.php:20128
+msgid "3px"
+msgstr ""
+
+#: page-builder-elements.php:660 page-builder-elements.php:2025
+#: page-builder-elements.php:3309 page-builder-elements.php:5706
+#: page-builder-elements.php:10543 page-builder-elements.php:16592
+#: page-builder-elements.php:18841 page-builder-elements.php:20129
+msgid "4px"
+msgstr ""
+
+#: page-builder-elements.php:661 page-builder-elements.php:2026
+#: page-builder-elements.php:3310 page-builder-elements.php:5707
+#: page-builder-elements.php:10544 page-builder-elements.php:16593
+#: page-builder-elements.php:18842 page-builder-elements.php:20130
+msgid "5px"
+msgstr ""
+
+#: page-builder-elements.php:662 page-builder-elements.php:2027
+#: page-builder-elements.php:3311 page-builder-elements.php:5708
+#: page-builder-elements.php:10545 page-builder-elements.php:16594
+#: page-builder-elements.php:18843 page-builder-elements.php:20131
+msgid "10px"
+msgstr ""
+
+#: page-builder-elements.php:663 page-builder-elements.php:2028
+#: page-builder-elements.php:3312 page-builder-elements.php:5709
+#: page-builder-elements.php:10546 page-builder-elements.php:16595
+#: page-builder-elements.php:18844 page-builder-elements.php:20132
+msgid "15px"
+msgstr ""
+
+#: page-builder-elements.php:664 page-builder-elements.php:2029
+#: page-builder-elements.php:3313 page-builder-elements.php:5710
+#: page-builder-elements.php:10547 page-builder-elements.php:16596
+#: page-builder-elements.php:18845 page-builder-elements.php:20133
+msgid "20px"
+msgstr ""
+
+#: page-builder-elements.php:665 page-builder-elements.php:2030
+#: page-builder-elements.php:3314 page-builder-elements.php:5711
+#: page-builder-elements.php:10548 page-builder-elements.php:16597
+#: page-builder-elements.php:18846 page-builder-elements.php:20134
+msgid "25px"
+msgstr ""
+
+#: page-builder-elements.php:666 page-builder-elements.php:2031
+#: page-builder-elements.php:3315 page-builder-elements.php:5712
+#: page-builder-elements.php:10549 page-builder-elements.php:16598
+#: page-builder-elements.php:18847 page-builder-elements.php:20135
+msgid "30px"
+msgstr ""
+
+#: page-builder-elements.php:667 page-builder-elements.php:2032
+#: page-builder-elements.php:3316 page-builder-elements.php:5713
+#: page-builder-elements.php:10550 page-builder-elements.php:16599
+#: page-builder-elements.php:18848 page-builder-elements.php:20136
+msgid "45px"
+msgstr ""
+
+#: page-builder-elements.php:668 page-builder-elements.php:2033
+#: page-builder-elements.php:3317 page-builder-elements.php:5714
+#: page-builder-elements.php:10551 page-builder-elements.php:16600
+#: page-builder-elements.php:18849 page-builder-elements.php:20137
+msgid "50px"
+msgstr ""
+
+#: page-builder-elements.php:674 page-builder-elements.php:2039
+#: page-builder-elements.php:3323 page-builder-elements.php:5720
+#: page-builder-elements.php:10557 page-builder-elements.php:16606
+#: page-builder-elements.php:18855
+msgid "Slider Autoplay"
+msgstr ""
+
+#: page-builder-elements.php:675 page-builder-elements.php:2040
+#: page-builder-elements.php:3324 page-builder-elements.php:5721
+#: page-builder-elements.php:10558 page-builder-elements.php:16607
+#: page-builder-elements.php:18856 page-builder-elements.php:20260
+msgid "You can choose status of the autoplay."
+msgstr ""
+
+#: page-builder-elements.php:685 page-builder-elements.php:2059
+#: page-builder-elements.php:3343 page-builder-elements.php:5740
+#: page-builder-elements.php:10577 page-builder-elements.php:16626
+#: page-builder-elements.php:18875 page-builder-elements.php:20143
+msgid "Slider Loop"
+msgstr ""
+
+#: page-builder-elements.php:686 page-builder-elements.php:2060
+#: page-builder-elements.php:3344 page-builder-elements.php:5741
+#: page-builder-elements.php:10578 page-builder-elements.php:16627
+#: page-builder-elements.php:18876 page-builder-elements.php:20144
+msgid "You can choose status of the loop."
+msgstr ""
+
+#: page-builder-elements.php:696 page-builder-elements.php:2071
+#: page-builder-elements.php:3355 page-builder-elements.php:5752
+#: page-builder-elements.php:10589 page-builder-elements.php:16638
+#: page-builder-elements.php:18887 page-builder-elements.php:20154
+msgid "Slide Speed"
+msgstr ""
+
+#: page-builder-elements.php:697
+msgid ""
+"You can enter a slide speed. Duration of transition between the slides. "
+"Default: 1000"
+msgstr ""
+
+#: page-builder-elements.php:703 page-builder-elements.php:2079
+#: page-builder-elements.php:3363 page-builder-elements.php:5760
+#: page-builder-elements.php:10597 page-builder-elements.php:16646
+#: page-builder-elements.php:18895 page-builder-elements.php:20161
+msgid "Centered Slides"
+msgstr ""
+
+#: page-builder-elements.php:704 page-builder-elements.php:2080
+#: page-builder-elements.php:3364 page-builder-elements.php:5761
+#: page-builder-elements.php:10598 page-builder-elements.php:16647
+#: page-builder-elements.php:18896 page-builder-elements.php:20162
+msgid ""
+"You can choose status of the centered slides. If you choose true, then "
+"active slide will be centered, not always on the left side."
+msgstr ""
+
+#: page-builder-elements.php:714 page-builder-elements.php:2091
+#: page-builder-elements.php:3375 page-builder-elements.php:5772
+#: page-builder-elements.php:10609 page-builder-elements.php:16658
+#: page-builder-elements.php:18907 page-builder-elements.php:20172
+msgid "Slider Direction"
+msgstr ""
+
+#: page-builder-elements.php:715 page-builder-elements.php:2092
+#: page-builder-elements.php:3376 page-builder-elements.php:5773
+#: page-builder-elements.php:10610 page-builder-elements.php:16659
+#: page-builder-elements.php:18908 page-builder-elements.php:20173
+msgid "You can choose a direction."
+msgstr ""
+
+#: page-builder-elements.php:718 page-builder-elements.php:2096
+#: page-builder-elements.php:3380 page-builder-elements.php:5777
+#: page-builder-elements.php:10614 page-builder-elements.php:16663
+#: page-builder-elements.php:18912 page-builder-elements.php:20176
+msgid "Horizontal"
+msgstr ""
+
+#: page-builder-elements.php:719 page-builder-elements.php:2097
+#: page-builder-elements.php:3381 page-builder-elements.php:5778
+#: page-builder-elements.php:10615 page-builder-elements.php:16664
+#: page-builder-elements.php:18913 page-builder-elements.php:20177
+msgid "Vertical"
+msgstr ""
+
+#: page-builder-elements.php:725 page-builder-elements.php:2103
+#: page-builder-elements.php:3387 page-builder-elements.php:5784
+#: page-builder-elements.php:10621 page-builder-elements.php:16670
+#: page-builder-elements.php:18919 page-builder-elements.php:20183
+msgid "Slider Effect"
+msgstr ""
+
+#: page-builder-elements.php:726 page-builder-elements.php:2104
+#: page-builder-elements.php:3388 page-builder-elements.php:5785
+#: page-builder-elements.php:10622 page-builder-elements.php:16671
+#: page-builder-elements.php:18920 page-builder-elements.php:20184
+msgid "You can choose an effect."
+msgstr ""
+
+#: page-builder-elements.php:729 page-builder-elements.php:2108
+#: page-builder-elements.php:3392 page-builder-elements.php:5789
+#: page-builder-elements.php:10626 page-builder-elements.php:16675
+#: page-builder-elements.php:18924 page-builder-elements.php:20187
+msgid "Slide"
+msgstr ""
+
+#: page-builder-elements.php:730 page-builder-elements.php:2109
+#: page-builder-elements.php:3393 page-builder-elements.php:5790
+#: page-builder-elements.php:10627 page-builder-elements.php:16676
+#: page-builder-elements.php:18925 page-builder-elements.php:20188
+msgid "Fade"
+msgstr ""
+
+#: page-builder-elements.php:731 page-builder-elements.php:2110
+#: page-builder-elements.php:3394 page-builder-elements.php:5791
+#: page-builder-elements.php:10628 page-builder-elements.php:16677
+#: page-builder-elements.php:18926 page-builder-elements.php:20189
+msgid "Cube"
+msgstr ""
+
+#: page-builder-elements.php:732 page-builder-elements.php:2111
+#: page-builder-elements.php:3395 page-builder-elements.php:5792
+#: page-builder-elements.php:10629 page-builder-elements.php:16678
+#: page-builder-elements.php:18927 page-builder-elements.php:20190
+msgid "Coverflow"
+msgstr ""
+
+#: page-builder-elements.php:733 page-builder-elements.php:2112
+#: page-builder-elements.php:3396 page-builder-elements.php:5793
+#: page-builder-elements.php:10630 page-builder-elements.php:16679
+#: page-builder-elements.php:18928 page-builder-elements.php:20191
+msgid "Flip"
+msgstr ""
+
+#: page-builder-elements.php:739 page-builder-elements.php:2118
+#: page-builder-elements.php:3402 page-builder-elements.php:5799
+#: page-builder-elements.php:10636 page-builder-elements.php:16685
+#: page-builder-elements.php:18934 page-builder-elements.php:20197
+msgid "Free Mode"
+msgstr ""
+
+#: page-builder-elements.php:740 page-builder-elements.php:2119
+#: page-builder-elements.php:3403 page-builder-elements.php:5800
+#: page-builder-elements.php:10637 page-builder-elements.php:16686
+#: page-builder-elements.php:18935 page-builder-elements.php:20198
+msgid ""
+"You can choose status of the free mode. If true then slides will not have "
+"fixed positions"
+msgstr ""
+
+#: page-builder-elements.php:750 page-builder-elements.php:2130
+#: page-builder-elements.php:3414 page-builder-elements.php:10648
+#: page-builder-elements.php:16697 page-builder-elements.php:18946
+msgid "Navigation"
+msgstr ""
+
+#: page-builder-elements.php:751 page-builder-elements.php:2131
+#: page-builder-elements.php:3415 page-builder-elements.php:10649
+#: page-builder-elements.php:16698 page-builder-elements.php:18947
+msgid "You can choose status of the navigation."
+msgstr ""
+
+#: page-builder-elements.php:761 page-builder-elements.php:2142
+#: page-builder-elements.php:3426
+msgid "Navigation Style"
+msgstr ""
+
+#: page-builder-elements.php:762 page-builder-elements.php:2143
+#: page-builder-elements.php:3427
+msgid "You can choose a navigation style."
+msgstr ""
+
+#: page-builder-elements.php:772 page-builder-elements.php:2154
+#: page-builder-elements.php:3438 page-builder-elements.php:7021
+#: page-builder-elements.php:8007 page-builder-elements.php:13555
+#: page-builder-elements.php:15002 page-builder-elements.php:18082
+#: page-builder-elements.php:20208 page-builder-elements.php:22634
+msgid "Pagination"
+msgstr ""
+
+#: page-builder-elements.php:773 page-builder-elements.php:2155
+#: page-builder-elements.php:3439 page-builder-elements.php:7022
+#: page-builder-elements.php:8008 page-builder-elements.php:13556
+#: page-builder-elements.php:15003 page-builder-elements.php:18083
+#: page-builder-elements.php:20209 page-builder-elements.php:22635
+msgid "You can choose status of the pagination."
+msgstr ""
+
+#: page-builder-elements.php:783 page-builder-elements.php:2166
+msgid "Pagination Style"
+msgstr ""
+
+#: page-builder-elements.php:784 page-builder-elements.php:2167
+msgid "You can choose a pagination style."
+msgstr ""
+
+#: page-builder-elements.php:1553 page-builder-elements.php:18120
+#: page-builder-elements.php:18796
+msgid "Details"
+msgstr ""
+
+#: page-builder-elements.php:1563
+msgid "Buy Ticket"
+msgstr ""
+
+#: page-builder-elements.php:1680
+msgid "Events Slider"
+msgstr ""
+
+#: page-builder-elements.php:1684
+msgid "Events slider element."
+msgstr ""
+
+#: page-builder-elements.php:1689 page-builder-elements.php:5619
+#: page-builder-elements.php:6945 page-builder-elements.php:7916
+#: page-builder-elements.php:9074 page-builder-elements.php:9242
+#: page-builder-elements.php:10229 page-builder-elements.php:13492
+#: page-builder-elements.php:14243 page-builder-elements.php:14369
+#: page-builder-elements.php:14944 page-builder-elements.php:15630
+#: page-builder-elements.php:15756 page-builder-elements.php:16409
+#: page-builder-elements.php:17992 page-builder-elements.php:19156
+#: page-builder-elements.php:19199 page-builder-elements.php:19479
+#: page-builder-elements.php:19522 page-builder-elements.php:19797
+#: page-builder-elements.php:19840 page-builder-elements.php:22576
+#: widgets.php:1715
+msgid "Count"
+msgstr ""
+
+#: page-builder-elements.php:1690 page-builder-elements.php:6946
+#: page-builder-elements.php:7917 page-builder-elements.php:10230
+#: page-builder-elements.php:13493 page-builder-elements.php:14945
+#: page-builder-elements.php:16410 page-builder-elements.php:19157
+#: page-builder-elements.php:19480 page-builder-elements.php:19798
+msgid "You can enter a count."
+msgstr ""
+
+#: page-builder-elements.php:1691 page-builder-elements.php:1700
+#: page-builder-elements.php:1708 page-builder-elements.php:1716
+#: page-builder-elements.php:1724 page-builder-elements.php:1736
+#: page-builder-elements.php:1755 page-builder-elements.php:3033
+#: page-builder-elements.php:3042 page-builder-elements.php:3051
+#: page-builder-elements.php:3059 page-builder-elements.php:3067
+#: page-builder-elements.php:3075 page-builder-elements.php:3087
+#: page-builder-elements.php:3095 page-builder-elements.php:3103
+#: page-builder-elements.php:3111 page-builder-elements.php:3123
+#: page-builder-elements.php:3131 page-builder-elements.php:3139
+#: page-builder-elements.php:3147 page-builder-elements.php:3155
+#: page-builder-elements.php:3163 page-builder-elements.php:3171
+#: page-builder-elements.php:3179 page-builder-elements.php:3187
+#: page-builder-elements.php:6947 page-builder-elements.php:6956
+#: page-builder-elements.php:6964 page-builder-elements.php:6972
+#: page-builder-elements.php:6980 page-builder-elements.php:6992
+#: page-builder-elements.php:7011 page-builder-elements.php:7023
+#: page-builder-elements.php:7918 page-builder-elements.php:7927
+#: page-builder-elements.php:7935 page-builder-elements.php:7943
+#: page-builder-elements.php:7951 page-builder-elements.php:7963
+#: page-builder-elements.php:7983 page-builder-elements.php:7996
+#: page-builder-elements.php:8009 page-builder-elements.php:9076
+#: page-builder-elements.php:9084 page-builder-elements.php:9092
+#: page-builder-elements.php:9100 page-builder-elements.php:9112
+#: page-builder-elements.php:9131 page-builder-elements.php:9143
+#: page-builder-elements.php:10231 page-builder-elements.php:10240
+#: page-builder-elements.php:10248 page-builder-elements.php:10256
+#: page-builder-elements.php:10264 page-builder-elements.php:10276
+#: page-builder-elements.php:10296 page-builder-elements.php:10309
+#: page-builder-elements.php:11710 page-builder-elements.php:11718
+#: page-builder-elements.php:11726 page-builder-elements.php:12595
+#: page-builder-elements.php:12607 page-builder-elements.php:12627
+#: page-builder-elements.php:12635 page-builder-elements.php:12643
+#: page-builder-elements.php:12655 page-builder-elements.php:12663
+#: page-builder-elements.php:12675 page-builder-elements.php:12687
+#: page-builder-elements.php:12699 page-builder-elements.php:12707
+#: page-builder-elements.php:12879 page-builder-elements.php:12888
+#: page-builder-elements.php:13494 page-builder-elements.php:13502
+#: page-builder-elements.php:13510 page-builder-elements.php:13518
+#: page-builder-elements.php:13526 page-builder-elements.php:13538
+#: page-builder-elements.php:13557 page-builder-elements.php:14245
+#: page-builder-elements.php:14253 page-builder-elements.php:14261
+#: page-builder-elements.php:14269 page-builder-elements.php:14281
+#: page-builder-elements.php:14946 page-builder-elements.php:14953
+#: page-builder-elements.php:14960 page-builder-elements.php:14967
+#: page-builder-elements.php:14974 page-builder-elements.php:14986
+#: page-builder-elements.php:15004 page-builder-elements.php:15632
+#: page-builder-elements.php:15640 page-builder-elements.php:15648
+#: page-builder-elements.php:15656 page-builder-elements.php:15668
+#: page-builder-elements.php:16411 page-builder-elements.php:16419
+#: page-builder-elements.php:16427 page-builder-elements.php:16435
+#: page-builder-elements.php:16443 page-builder-elements.php:16455
+#: page-builder-elements.php:17994 page-builder-elements.php:18002
+#: page-builder-elements.php:18011 page-builder-elements.php:18019
+#: page-builder-elements.php:18027 page-builder-elements.php:18035
+#: page-builder-elements.php:18043 page-builder-elements.php:18055
+#: page-builder-elements.php:18072 page-builder-elements.php:18084
+#: page-builder-elements.php:18657 page-builder-elements.php:18666
+#: page-builder-elements.php:18676 page-builder-elements.php:18684
+#: page-builder-elements.php:18692 page-builder-elements.php:18700
+#: page-builder-elements.php:18708 page-builder-elements.php:18720
+#: page-builder-elements.php:18737 page-builder-elements.php:21563
+#: page-builder-elements.php:21579 page-builder-elements.php:21592
+#: page-builder-elements.php:21600 page-builder-elements.php:21608
+#: page-builder-elements.php:21616 page-builder-elements.php:21628
+#: page-builder-elements.php:22550 page-builder-elements.php:22563
+#: page-builder-elements.php:22578 page-builder-elements.php:22586
+#: page-builder-elements.php:22594 page-builder-elements.php:22606
+#: page-builder-elements.php:22624 page-builder-elements.php:22636
+msgid "General"
+msgstr ""
+
+#: page-builder-elements.php:1698 page-builder-elements.php:6954
+#: page-builder-elements.php:7925 page-builder-elements.php:10238
+#: page-builder-elements.php:11708 page-builder-elements.php:12625
+msgid "Include Events"
+msgstr ""
+
+#: page-builder-elements.php:1699 page-builder-elements.php:1707
+#: page-builder-elements.php:6955 page-builder-elements.php:6963
+#: page-builder-elements.php:7926 page-builder-elements.php:7934
+#: page-builder-elements.php:9083 page-builder-elements.php:10239
+#: page-builder-elements.php:10247 page-builder-elements.php:11709
+#: page-builder-elements.php:11717 page-builder-elements.php:12626
+#: page-builder-elements.php:12634
+msgid "You can enter event ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:1706 page-builder-elements.php:6962
+#: page-builder-elements.php:7933 page-builder-elements.php:9082
+#: page-builder-elements.php:10246 page-builder-elements.php:11716
+#: page-builder-elements.php:12633 widgets.php:445
+msgid "Exclude Events"
+msgstr ""
+
+#: page-builder-elements.php:1714 page-builder-elements.php:6970
+#: page-builder-elements.php:7941 page-builder-elements.php:9090
+#: page-builder-elements.php:10254 page-builder-elements.php:13516
+#: page-builder-elements.php:14259 page-builder-elements.php:14965
+#: page-builder-elements.php:15646 page-builder-elements.php:16433
+#: page-builder-elements.php:18033 page-builder-elements.php:18698
+#: page-builder-elements.php:22584 widgets.php:185 widgets.php:455
+#: widgets.php:665 widgets.php:993
+msgid "Offset"
+msgstr ""
+
+#: page-builder-elements.php:1715 page-builder-elements.php:6971
+#: page-builder-elements.php:7942 page-builder-elements.php:9091
+#: page-builder-elements.php:10255 page-builder-elements.php:13517
+#: page-builder-elements.php:14260 page-builder-elements.php:14966
+#: page-builder-elements.php:15647 page-builder-elements.php:16434
+#: page-builder-elements.php:18034 page-builder-elements.php:18699
+#: page-builder-elements.php:22585
+msgid "You can enter an offset number."
+msgstr ""
+
+#: page-builder-elements.php:1721 page-builder-elements.php:7949
+#: page-builder-elements.php:9098 page-builder-elements.php:10262
+#: page-builder-elements.php:13524 page-builder-elements.php:14267
+#: page-builder-elements.php:14972 page-builder-elements.php:15654
+#: page-builder-elements.php:16441 page-builder-elements.php:18041
+#: page-builder-elements.php:18706 page-builder-elements.php:19177
+#: page-builder-elements.php:19500 page-builder-elements.php:19818
+#: page-builder-elements.php:22592
+msgid "Order"
+msgstr ""
+
+#: page-builder-elements.php:1722 page-builder-elements.php:5256
+#: page-builder-elements.php:5322 page-builder-elements.php:5596
+#: page-builder-elements.php:7950 page-builder-elements.php:9099
+#: page-builder-elements.php:9219 page-builder-elements.php:10263
+#: page-builder-elements.php:13525 page-builder-elements.php:14268
+#: page-builder-elements.php:14346 page-builder-elements.php:14973
+#: page-builder-elements.php:15655 page-builder-elements.php:15733
+#: page-builder-elements.php:16442 page-builder-elements.php:18042
+#: page-builder-elements.php:18707 page-builder-elements.php:19178
+#: page-builder-elements.php:19501 page-builder-elements.php:19819
+#: page-builder-elements.php:22593
+msgid "You can choose an order."
+msgstr ""
+
+#: page-builder-elements.php:1727 page-builder-elements.php:5260
+#: page-builder-elements.php:5326 page-builder-elements.php:5600
+#: page-builder-elements.php:6984 page-builder-elements.php:7954
+#: page-builder-elements.php:9103 page-builder-elements.php:9223
+#: page-builder-elements.php:10267 page-builder-elements.php:13529
+#: page-builder-elements.php:14272 page-builder-elements.php:14350
+#: page-builder-elements.php:14977 page-builder-elements.php:15659
+#: page-builder-elements.php:15737 page-builder-elements.php:16446
+#: page-builder-elements.php:18046 page-builder-elements.php:18711
+#: page-builder-elements.php:19181 page-builder-elements.php:19504
+#: page-builder-elements.php:19822 page-builder-elements.php:22597
+#: widgets.php:1434 widgets.php:1482 widgets.php:1700
+msgid "ASC"
+msgstr ""
+
+#: page-builder-elements.php:1728 page-builder-elements.php:5261
+#: page-builder-elements.php:5327 page-builder-elements.php:5601
+#: page-builder-elements.php:6983 page-builder-elements.php:7955
+#: page-builder-elements.php:9104 page-builder-elements.php:9224
+#: page-builder-elements.php:10268 page-builder-elements.php:13530
+#: page-builder-elements.php:14273 page-builder-elements.php:14351
+#: page-builder-elements.php:14978 page-builder-elements.php:15660
+#: page-builder-elements.php:15738 page-builder-elements.php:16447
+#: page-builder-elements.php:18047 page-builder-elements.php:18712
+#: page-builder-elements.php:19182 page-builder-elements.php:19505
+#: page-builder-elements.php:19823 page-builder-elements.php:22598
+#: widgets.php:1433 widgets.php:1481 widgets.php:1701
+msgid "DESC"
+msgstr ""
+
+#: page-builder-elements.php:1734 page-builder-elements.php:7961
+#: page-builder-elements.php:9110 page-builder-elements.php:10274
+#: page-builder-elements.php:13536 page-builder-elements.php:14279
+#: page-builder-elements.php:14984 page-builder-elements.php:15666
+#: page-builder-elements.php:16453 page-builder-elements.php:18053
+#: page-builder-elements.php:18718 page-builder-elements.php:19188
+#: page-builder-elements.php:19511 page-builder-elements.php:19829
+#: page-builder-elements.php:22604
+msgid "Order Type"
+msgstr ""
+
+#: page-builder-elements.php:1735 page-builder-elements.php:5268
+#: page-builder-elements.php:5334 page-builder-elements.php:5608
+#: page-builder-elements.php:7962 page-builder-elements.php:9111
+#: page-builder-elements.php:9231 page-builder-elements.php:10275
+#: page-builder-elements.php:13537 page-builder-elements.php:14280
+#: page-builder-elements.php:14358 page-builder-elements.php:14985
+#: page-builder-elements.php:15667 page-builder-elements.php:15745
+#: page-builder-elements.php:16454 page-builder-elements.php:18054
+#: page-builder-elements.php:18719 page-builder-elements.php:19189
+#: page-builder-elements.php:19512 page-builder-elements.php:19830
+#: page-builder-elements.php:22605
+msgid "You can choose an order type."
+msgstr ""
+
+#: page-builder-elements.php:1739 page-builder-elements.php:4994
+#: page-builder-elements.php:5003 page-builder-elements.php:5272
+#: page-builder-elements.php:5338 page-builder-elements.php:6995
+#: page-builder-elements.php:7967 page-builder-elements.php:9115
+#: page-builder-elements.php:10280 page-builder-elements.php:13542
+#: page-builder-elements.php:14284 page-builder-elements.php:14989
+#: page-builder-elements.php:15671 page-builder-elements.php:16458
+#: page-builder-elements.php:18058 page-builder-elements.php:18723
+#: page-builder-elements.php:22610 widgets.php:1441 widgets.php:1489
+msgid "Added Date"
+msgstr ""
+
+#: page-builder-elements.php:1740 page-builder-elements.php:3145
+#: page-builder-elements.php:6996 page-builder-elements.php:7968
+#: page-builder-elements.php:9116 page-builder-elements.php:10281
+msgid "Event Date"
+msgstr ""
+
+#: page-builder-elements.php:1741 page-builder-elements.php:5273
+#: page-builder-elements.php:5339 page-builder-elements.php:6997
+#: page-builder-elements.php:7969 page-builder-elements.php:9117
+#: page-builder-elements.php:10282 page-builder-elements.php:13543
+#: page-builder-elements.php:14285 page-builder-elements.php:14990
+#: page-builder-elements.php:15672 page-builder-elements.php:16459
+#: page-builder-elements.php:18059 page-builder-elements.php:18724
+#: page-builder-elements.php:22611
+msgid "Popular by Comment"
+msgstr ""
+
+#: page-builder-elements.php:1742 page-builder-elements.php:5274
+#: page-builder-elements.php:5340 page-builder-elements.php:5616
+#: page-builder-elements.php:6998 page-builder-elements.php:7970
+#: page-builder-elements.php:9118 page-builder-elements.php:9239
+#: page-builder-elements.php:10283 page-builder-elements.php:13544
+#: page-builder-elements.php:14286 page-builder-elements.php:14366
+#: page-builder-elements.php:14991 page-builder-elements.php:15673
+#: page-builder-elements.php:15753 page-builder-elements.php:16460
+#: page-builder-elements.php:18060 page-builder-elements.php:18725
+#: page-builder-elements.php:19196 page-builder-elements.php:19519
+#: page-builder-elements.php:19837 page-builder-elements.php:22612
+#: widgets.php:1443 widgets.php:1491 widgets.php:1712
+msgid "ID"
+msgstr ""
+
+#: page-builder-elements.php:1743 page-builder-elements.php:5275
+#: page-builder-elements.php:5341 page-builder-elements.php:6999
+#: page-builder-elements.php:7971 page-builder-elements.php:9119
+#: page-builder-elements.php:10284 page-builder-elements.php:13545
+#: page-builder-elements.php:14287 page-builder-elements.php:14992
+#: page-builder-elements.php:15674 page-builder-elements.php:16461
+#: page-builder-elements.php:17327 page-builder-elements.php:17546
+#: page-builder-elements.php:18061 page-builder-elements.php:18726
+#: page-builder-elements.php:20611 page-builder-elements.php:21590
+#: page-builder-elements.php:21947 page-builder-elements.php:22613
+#: widgets.php:1444 widgets.php:1492
+msgid "Title"
+msgstr ""
+
+#: page-builder-elements.php:1744 page-builder-elements.php:5276
+#: page-builder-elements.php:5342 page-builder-elements.php:7000
+#: page-builder-elements.php:7972 page-builder-elements.php:9120
+#: page-builder-elements.php:10285 page-builder-elements.php:13546
+#: page-builder-elements.php:14288 page-builder-elements.php:14993
+#: page-builder-elements.php:15675 page-builder-elements.php:16462
+#: page-builder-elements.php:18062 page-builder-elements.php:18727
+#: page-builder-elements.php:22614 widgets.php:1445 widgets.php:1493
+msgid "Menu Order"
+msgstr ""
+
+#: page-builder-elements.php:1745 page-builder-elements.php:5277
+#: page-builder-elements.php:5343 page-builder-elements.php:7001
+#: page-builder-elements.php:7973 page-builder-elements.php:9121
+#: page-builder-elements.php:10286 page-builder-elements.php:13547
+#: page-builder-elements.php:14289 page-builder-elements.php:14994
+#: page-builder-elements.php:15676 page-builder-elements.php:16463
+#: page-builder-elements.php:18063 page-builder-elements.php:18728
+#: page-builder-elements.php:22615 widgets.php:1446 widgets.php:1494
+msgid "Random"
+msgstr ""
+
+#: page-builder-elements.php:1746 page-builder-elements.php:5278
+#: page-builder-elements.php:5344 page-builder-elements.php:7002
+#: page-builder-elements.php:7974 page-builder-elements.php:9122
+#: page-builder-elements.php:10287 page-builder-elements.php:13548
+#: page-builder-elements.php:14290 page-builder-elements.php:14995
+#: page-builder-elements.php:15677 page-builder-elements.php:16464
+#: widgets.php:1447 widgets.php:1495
+msgid "By Include IDs"
+msgstr ""
+
+#: page-builder-elements.php:1747 page-builder-elements.php:5279
+#: page-builder-elements.php:5345 page-builder-elements.php:7003
+#: page-builder-elements.php:7975 page-builder-elements.php:9123
+#: page-builder-elements.php:10288 page-builder-elements.php:13549
+#: page-builder-elements.php:14291 page-builder-elements.php:14996
+#: page-builder-elements.php:15678 page-builder-elements.php:16465
+#: page-builder-elements.php:18064 page-builder-elements.php:18729
+#: page-builder-elements.php:22616 widgets.php:1448 widgets.php:1496
+msgid "None"
+msgstr ""
+
+#: page-builder-elements.php:1753 page-builder-elements.php:7009
+#: page-builder-elements.php:7981 page-builder-elements.php:9129
+#: page-builder-elements.php:10294 page-builder-elements.php:11724
+#: page-builder-elements.php:12641 page-builder-elements.php:22622
+msgid "Hide Expired Events"
+msgstr ""
+
+#: page-builder-elements.php:1754
+msgid "You can choose status of the expired events."
+msgstr ""
+
+#: page-builder-elements.php:1765 page-builder-elements.php:5547
+#: page-builder-elements.php:7033 page-builder-elements.php:8019
+#: page-builder-elements.php:9154 page-builder-elements.php:10320
+#: page-builder-elements.php:11736 page-builder-elements.php:12713
+#: page-builder-elements.php:14297 page-builder-elements.php:15014
+#: page-builder-elements.php:15684 page-builder-elements.php:16471
+#: page-builder-elements.php:19804 widgets.php:1662
+msgid "Exclude Categories"
+msgstr ""
+
+#: page-builder-elements.php:1766 page-builder-elements.php:1798
+#: page-builder-elements.php:11737 page-builder-elements.php:11769
+#: page-builder-elements.php:12714 page-builder-elements.php:12746
+#: page-builder-elements.php:15036 page-builder-elements.php:16496
+msgid "You can enter category ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:1767 page-builder-elements.php:1775
+#: page-builder-elements.php:1783 page-builder-elements.php:1791
+#: page-builder-elements.php:1799 page-builder-elements.php:1807
+#: page-builder-elements.php:1815 page-builder-elements.php:1823
+#: page-builder-elements.php:5549 page-builder-elements.php:5557
+#: page-builder-elements.php:5565 page-builder-elements.php:5573
+#: page-builder-elements.php:5581 page-builder-elements.php:5589
+#: page-builder-elements.php:5597 page-builder-elements.php:5609
+#: page-builder-elements.php:5627 page-builder-elements.php:5639
+#: page-builder-elements.php:5651 page-builder-elements.php:7035
+#: page-builder-elements.php:7043 page-builder-elements.php:7051
+#: page-builder-elements.php:7059 page-builder-elements.php:7067
+#: page-builder-elements.php:7075 page-builder-elements.php:7083
+#: page-builder-elements.php:7091 page-builder-elements.php:8021
+#: page-builder-elements.php:8029 page-builder-elements.php:8037
+#: page-builder-elements.php:8045 page-builder-elements.php:8053
+#: page-builder-elements.php:8061 page-builder-elements.php:8069
+#: page-builder-elements.php:8077 page-builder-elements.php:9156
+#: page-builder-elements.php:9164 page-builder-elements.php:9172
+#: page-builder-elements.php:9180 page-builder-elements.php:9188
+#: page-builder-elements.php:9196 page-builder-elements.php:9204
+#: page-builder-elements.php:9212 page-builder-elements.php:9220
+#: page-builder-elements.php:9232 page-builder-elements.php:9250
+#: page-builder-elements.php:9262 page-builder-elements.php:10322
+#: page-builder-elements.php:10330 page-builder-elements.php:10338
+#: page-builder-elements.php:10346 page-builder-elements.php:10354
+#: page-builder-elements.php:10362 page-builder-elements.php:10370
+#: page-builder-elements.php:10378 page-builder-elements.php:11738
+#: page-builder-elements.php:11746 page-builder-elements.php:11754
+#: page-builder-elements.php:11762 page-builder-elements.php:11770
+#: page-builder-elements.php:11778 page-builder-elements.php:11786
+#: page-builder-elements.php:11794 page-builder-elements.php:12715
+#: page-builder-elements.php:12723 page-builder-elements.php:12731
+#: page-builder-elements.php:12739 page-builder-elements.php:12747
+#: page-builder-elements.php:12755 page-builder-elements.php:12763
+#: page-builder-elements.php:12771 page-builder-elements.php:14299
+#: page-builder-elements.php:14307 page-builder-elements.php:14315
+#: page-builder-elements.php:14323 page-builder-elements.php:14331
+#: page-builder-elements.php:14339 page-builder-elements.php:14347
+#: page-builder-elements.php:14359 page-builder-elements.php:14377
+#: page-builder-elements.php:14389 page-builder-elements.php:15016
+#: page-builder-elements.php:15023 page-builder-elements.php:15030
+#: page-builder-elements.php:15037 page-builder-elements.php:15044
+#: page-builder-elements.php:15051 page-builder-elements.php:15686
+#: page-builder-elements.php:15694 page-builder-elements.php:15702
+#: page-builder-elements.php:15710 page-builder-elements.php:15718
+#: page-builder-elements.php:15726 page-builder-elements.php:15734
+#: page-builder-elements.php:15746 page-builder-elements.php:15764
+#: page-builder-elements.php:15776 page-builder-elements.php:16473
+#: page-builder-elements.php:16481 page-builder-elements.php:16489
+#: page-builder-elements.php:16497 page-builder-elements.php:16505
+#: page-builder-elements.php:16513
+msgid "Taxonomies"
+msgstr ""
+
+#: page-builder-elements.php:1773 page-builder-elements.php:5555
+#: page-builder-elements.php:7041 page-builder-elements.php:8027
+#: page-builder-elements.php:9162 page-builder-elements.php:10327
+#: page-builder-elements.php:11744 page-builder-elements.php:12721
+#: page-builder-elements.php:14305 page-builder-elements.php:15021
+#: page-builder-elements.php:15692 page-builder-elements.php:16479
+#: widgets.php:1668
+msgid "Exclude Locations"
+msgstr ""
+
+#: page-builder-elements.php:1774 page-builder-elements.php:1806
+#: page-builder-elements.php:5556 page-builder-elements.php:7042
+#: page-builder-elements.php:7074 page-builder-elements.php:8028
+#: page-builder-elements.php:8060 page-builder-elements.php:9163
+#: page-builder-elements.php:9195 page-builder-elements.php:10328
+#: page-builder-elements.php:10361 page-builder-elements.php:11745
+#: page-builder-elements.php:11777 page-builder-elements.php:12722
+#: page-builder-elements.php:12754 page-builder-elements.php:14306
+#: page-builder-elements.php:14330 page-builder-elements.php:15022
+#: page-builder-elements.php:15043 page-builder-elements.php:15693
+#: page-builder-elements.php:15717 page-builder-elements.php:16480
+#: page-builder-elements.php:16504 widgets.php:1670
+msgid "You can enter location ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:1781 page-builder-elements.php:5563
+#: page-builder-elements.php:7049 page-builder-elements.php:8035
+#: page-builder-elements.php:9170 page-builder-elements.php:10336
+#: page-builder-elements.php:11752 page-builder-elements.php:12729
+#: page-builder-elements.php:19163 widgets.php:1674
+msgid "Exclude Organizers"
+msgstr ""
+
+#: page-builder-elements.php:1782 page-builder-elements.php:1814
+#: page-builder-elements.php:7050 page-builder-elements.php:7082
+#: page-builder-elements.php:8036 page-builder-elements.php:8068
+#: page-builder-elements.php:9171 page-builder-elements.php:9203
+#: page-builder-elements.php:10337 page-builder-elements.php:10369
+#: page-builder-elements.php:11753 page-builder-elements.php:11785
+#: page-builder-elements.php:12730 page-builder-elements.php:12762
+msgid "You can enter organizers ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:1789 page-builder-elements.php:7057
+#: page-builder-elements.php:8043 page-builder-elements.php:9178
+#: page-builder-elements.php:10344 page-builder-elements.php:11760
+#: page-builder-elements.php:12737 page-builder-elements.php:14313
+#: page-builder-elements.php:15028 page-builder-elements.php:15700
+#: page-builder-elements.php:16487 page-builder-elements.php:19486
+msgid "Exclude Tags"
+msgstr ""
+
+#: page-builder-elements.php:1790 page-builder-elements.php:1822
+#: page-builder-elements.php:7058 page-builder-elements.php:7090
+#: page-builder-elements.php:8044 page-builder-elements.php:8076
+#: page-builder-elements.php:9179 page-builder-elements.php:9211
+#: page-builder-elements.php:10345 page-builder-elements.php:10377
+#: page-builder-elements.php:11761 page-builder-elements.php:11793
+#: page-builder-elements.php:12738 page-builder-elements.php:12770
+#: page-builder-elements.php:14314 page-builder-elements.php:14338
+#: page-builder-elements.php:15029 page-builder-elements.php:15050
+#: page-builder-elements.php:15701 page-builder-elements.php:15725
+#: page-builder-elements.php:16488 page-builder-elements.php:16512
+msgid "You can enter a tag. Example: Event."
+msgstr ""
+
+#: page-builder-elements.php:1797 page-builder-elements.php:5571
+#: page-builder-elements.php:7065 page-builder-elements.php:8051
+#: page-builder-elements.php:9186 page-builder-elements.php:10352
+#: page-builder-elements.php:11768 page-builder-elements.php:12745
+#: page-builder-elements.php:14321 page-builder-elements.php:15035
+#: page-builder-elements.php:15708 page-builder-elements.php:16495
+#: page-builder-elements.php:19811 widgets.php:1680
+msgid "Include Categories"
+msgstr ""
+
+#: page-builder-elements.php:1805 page-builder-elements.php:5579
+#: page-builder-elements.php:7073 page-builder-elements.php:8059
+#: page-builder-elements.php:9194 page-builder-elements.php:10360
+#: page-builder-elements.php:11776 page-builder-elements.php:12753
+#: page-builder-elements.php:14329 page-builder-elements.php:15042
+#: page-builder-elements.php:15716 page-builder-elements.php:16503
+#: widgets.php:1686
+msgid "Include Locations"
+msgstr ""
+
+#: page-builder-elements.php:1813 page-builder-elements.php:5587
+#: page-builder-elements.php:7081 page-builder-elements.php:8067
+#: page-builder-elements.php:9202 page-builder-elements.php:10368
+#: page-builder-elements.php:11784 page-builder-elements.php:12761
+#: page-builder-elements.php:19170 widgets.php:1692
+msgid "Include Organizers"
+msgstr ""
+
+#: page-builder-elements.php:1821 page-builder-elements.php:7089
+#: page-builder-elements.php:8075 page-builder-elements.php:9210
+#: page-builder-elements.php:10376 page-builder-elements.php:11792
+#: page-builder-elements.php:12769 page-builder-elements.php:14337
+#: page-builder-elements.php:15049 page-builder-elements.php:15724
+#: page-builder-elements.php:16511
+msgid "Include Tag"
+msgstr ""
+
+#: page-builder-elements.php:1855
+msgid "Details Button"
+msgstr ""
+
+#: page-builder-elements.php:1856
+msgid "You can choose status of the details button."
+msgstr ""
+
+#: page-builder-elements.php:1867
+msgid "Details Button Text"
+msgstr ""
+
+#: page-builder-elements.php:1868
+msgid "You can enter a text for the details button. Default: Details."
+msgstr ""
+
+#: page-builder-elements.php:1875
+msgid "Buy Now Button"
+msgstr ""
+
+#: page-builder-elements.php:1876
+msgid "You can choose status of the buy now button."
+msgstr ""
+
+#: page-builder-elements.php:1887
+msgid "Buy Now Button Text"
+msgstr ""
+
+#: page-builder-elements.php:1888
+msgid "You can enter a text for the buy now button. Default: Buy Now."
+msgstr ""
+
+#: page-builder-elements.php:1895 page-builder-elements.php:4127
+#: page-builder-elements.php:5195 page-builder-elements.php:7150
+#: page-builder-elements.php:8138 page-builder-elements.php:9362
+#: page-builder-elements.php:10434 page-builder-elements.php:18000
+#: page-builder-elements.php:18108 page-builder-elements.php:18664
+#: page-builder-elements.php:18784 post-types.php:166 post-types.php:292
+#: post-types.php:376 widgets.php:151 widgets.php:1389
+msgid "Category"
+msgstr ""
+
+#: page-builder-elements.php:1896
+msgid "You can choose status of the category."
+msgstr ""
+
+#: page-builder-elements.php:1907 page-builder-elements.php:4920
+#: page-builder-elements.php:4992 page-builder-elements.php:5001
+#: page-builder-elements.php:5151 page-builder-elements.php:7186
+#: page-builder-elements.php:8174 page-builder-elements.php:9398
+#: page-builder-elements.php:10470 page-builder-elements.php:11960
+#: widgets.php:1359
+msgid "Start Date"
+msgstr ""
+
+#: page-builder-elements.php:1908 page-builder-elements.php:7187
+#: page-builder-elements.php:8175 page-builder-elements.php:9399
+#: page-builder-elements.php:10471 page-builder-elements.php:11961
+msgid "You can choose status of the event start date."
+msgstr ""
+
+#: page-builder-elements.php:1919 page-builder-elements.php:4944
+#: page-builder-elements.php:4993 page-builder-elements.php:5002
+#: page-builder-elements.php:5163 widgets.php:1367
+msgid "End Date"
+msgstr ""
+
+#: page-builder-elements.php:1920
+msgid "You can choose status of the event end date."
+msgstr ""
+
+#: page-builder-elements.php:1931 page-builder-elements.php:4251
+#: page-builder-elements.php:7162 page-builder-elements.php:8150
+#: page-builder-elements.php:9374 page-builder-elements.php:10446
+#: page-builder-elements.php:15072 page-builder-elements.php:15839
+#: page-builder-elements.php:16543 post-types.php:460
+msgid "Location"
+msgstr ""
+
+#: page-builder-elements.php:1932 page-builder-elements.php:7163
+#: page-builder-elements.php:8151 page-builder-elements.php:9375
+#: page-builder-elements.php:10447 page-builder-elements.php:22724
+msgid "You can choose status of the event location."
+msgstr ""
+
+#: page-builder-elements.php:1943 page-builder-elements.php:4374
+#: page-builder-elements.php:7174 page-builder-elements.php:8162
+#: page-builder-elements.php:9386 page-builder-elements.php:10458
+#: page-builder-elements.php:11948 page-builder-elements.php:22851
+#: page-builder-elements.php:22863 post-types.php:63
+msgid "Venue"
+msgstr ""
+
+#: page-builder-elements.php:1944 page-builder-elements.php:7175
+#: page-builder-elements.php:8163 page-builder-elements.php:9387
+#: page-builder-elements.php:10459 page-builder-elements.php:11949
+#: page-builder-elements.php:22736
+msgid "You can choose status of the event venue."
+msgstr ""
+
+#: page-builder-elements.php:2005 page-builder-elements.php:2018
+#: page-builder-elements.php:2041 page-builder-elements.php:2053
+#: page-builder-elements.php:2061 page-builder-elements.php:2073
+#: page-builder-elements.php:2081 page-builder-elements.php:2093
+#: page-builder-elements.php:2105 page-builder-elements.php:2120
+#: page-builder-elements.php:2132 page-builder-elements.php:2144
+#: page-builder-elements.php:2156 page-builder-elements.php:2168
+#: page-builder-elements.php:3289 page-builder-elements.php:3302
+#: page-builder-elements.php:3325 page-builder-elements.php:3337
+#: page-builder-elements.php:3345 page-builder-elements.php:3357
+#: page-builder-elements.php:3365 page-builder-elements.php:3377
+#: page-builder-elements.php:3389 page-builder-elements.php:3404
+#: page-builder-elements.php:3416 page-builder-elements.php:3428
+#: page-builder-elements.php:3440 page-builder-elements.php:5663
+#: page-builder-elements.php:5671 page-builder-elements.php:5679
+#: page-builder-elements.php:5699 page-builder-elements.php:5722
+#: page-builder-elements.php:5734 page-builder-elements.php:5742
+#: page-builder-elements.php:5754 page-builder-elements.php:5762
+#: page-builder-elements.php:5774 page-builder-elements.php:5786
+#: page-builder-elements.php:5801 page-builder-elements.php:10520
+#: page-builder-elements.php:10536 page-builder-elements.php:10559
+#: page-builder-elements.php:10571 page-builder-elements.php:10579
+#: page-builder-elements.php:10591 page-builder-elements.php:10599
+#: page-builder-elements.php:10611 page-builder-elements.php:10623
+#: page-builder-elements.php:10638 page-builder-elements.php:10650
+#: page-builder-elements.php:16569 page-builder-elements.php:16585
+#: page-builder-elements.php:16608 page-builder-elements.php:16620
+#: page-builder-elements.php:16628 page-builder-elements.php:16640
+#: page-builder-elements.php:16648 page-builder-elements.php:16660
+#: page-builder-elements.php:16672 page-builder-elements.php:16687
+#: page-builder-elements.php:16699 page-builder-elements.php:18763
+#: page-builder-elements.php:18834 page-builder-elements.php:18857
+#: page-builder-elements.php:18869 page-builder-elements.php:18877
+#: page-builder-elements.php:18889 page-builder-elements.php:18897
+#: page-builder-elements.php:18909 page-builder-elements.php:18921
+#: page-builder-elements.php:18936 page-builder-elements.php:18948
+msgid "Slider"
+msgstr ""
+
+#: page-builder-elements.php:2051 page-builder-elements.php:3335
+#: page-builder-elements.php:5732 page-builder-elements.php:10569
+#: page-builder-elements.php:16618 page-builder-elements.php:18867
+msgid "Slider Autoplay Delay"
+msgstr ""
+
+#: page-builder-elements.php:2052 page-builder-elements.php:3336
+#: page-builder-elements.php:5733 page-builder-elements.php:10570
+#: page-builder-elements.php:16619 page-builder-elements.php:18868
+#: page-builder-elements.php:20271
+msgid "You can enter an autoplay delay value. Default: 15000"
+msgstr ""
+
+#: page-builder-elements.php:2072 page-builder-elements.php:3356
+#: page-builder-elements.php:5753 page-builder-elements.php:10590
+#: page-builder-elements.php:16639 page-builder-elements.php:18888
+#: page-builder-elements.php:20155
+msgid ""
+"You can enter a slide speed. Duration of transition between the slides. "
+"Default: 1500"
+msgstr ""
+
+#: page-builder-elements.php:2255 page-builder-elements.php:3485
+msgid "Days"
+msgstr ""
+
+#: page-builder-elements.php:2266 page-builder-elements.php:3496
+msgid "Hours"
+msgstr ""
+
+#: page-builder-elements.php:2277 page-builder-elements.php:3507
+msgid "Minutes"
+msgstr ""
+
+#: page-builder-elements.php:2288 page-builder-elements.php:3518
+msgid "Seconds"
+msgstr ""
+
+#: page-builder-elements.php:3022
+msgid "Countdown Slider"
+msgstr ""
+
+#: page-builder-elements.php:3026
+msgid "Event counter slider element."
+msgstr ""
+
+#: page-builder-elements.php:3032 page-builder-elements.php:3041
+#: page-builder-elements.php:17051 page-builder-elements.php:17059
+#: page-builder-elements.php:17328 page-builder-elements.php:17547
+#: page-builder-elements.php:20445 page-builder-elements.php:20453
+#: page-builder-elements.php:20612 page-builder-elements.php:21948
+msgid "You can enter a title."
+msgstr ""
+
+#: page-builder-elements.php:3049
+msgid "Background Text for the Title"
+msgstr ""
+
+#: page-builder-elements.php:3050
+msgid ""
+"You can enter a background text for the title on the style 1 and the style 2."
+msgstr ""
+
+#: page-builder-elements.php:3057
+msgid "Address & Date"
+msgstr ""
+
+#: page-builder-elements.php:3058
+msgid "You can enter an address and date."
+msgstr ""
+
+#: page-builder-elements.php:3065 page-builder-elements.php:20460
+msgid "Description Text"
+msgstr ""
+
+#: page-builder-elements.php:3073
+msgid "Detail Button"
+msgstr ""
+
+#: page-builder-elements.php:3074
+msgid "You can choose status of the detail button."
+msgstr ""
+
+#: page-builder-elements.php:3085
+msgid "Detail Button Link"
+msgstr ""
+
+#: page-builder-elements.php:3086 page-builder-elements.php:3122
+#: page-builder-elements.php:16934 page-builder-elements.php:17067
+#: page-builder-elements.php:17407 page-builder-elements.php:21092
+msgid "You can create a link."
+msgstr ""
+
+#: page-builder-elements.php:3093
+msgid "Detail Button Font Icon"
+msgstr ""
+
+#: page-builder-elements.php:3094
+msgid ""
+"You can add an icon to the detail button. If you want to use SVG icon, enter "
+"blank it. You can enter an icon. Example: fab fa-wordpress-simple, fas fa-"
+"map-marker-alt. Icon list: https://goo.gl/vdPEsc"
+msgstr ""
+
+#: page-builder-elements.php:3101 page-builder-elements.php:3137
+msgid "Detail Button SVG Icon"
+msgstr ""
+
+#: page-builder-elements.php:3102 page-builder-elements.php:3138
+#: page-builder-elements.php:17389 page-builder-elements.php:17569
+#: page-builder-elements.php:20486 page-builder-elements.php:21413
+#: page-builder-elements.php:21607 page-builder-elements.php:22104
+msgid "You can enter a SVG icon code."
+msgstr ""
+
+#: page-builder-elements.php:3109
+msgid "Ticket Button"
+msgstr ""
+
+#: page-builder-elements.php:3110
+msgid "You can choose status of the ticket button."
+msgstr ""
+
+#: page-builder-elements.php:3121
+msgid "Ticket Button Link"
+msgstr ""
+
+#: page-builder-elements.php:3129
+msgid "Ticket Button Font Icon"
+msgstr ""
+
+#: page-builder-elements.php:3130
+msgid ""
+"You can add an icon to the ticket button. If you want to use SVG icon, enter "
+"blank it. You can enter an icon. Example: fab fa-wordpress-simple, fas fa-"
+"map-marker-alt. Icon list: https://goo.gl/vdPEsc"
+msgstr ""
+
+#: page-builder-elements.php:3146
+msgid ""
+"You can enter a event date. Enter date with this format: 2020/09/23 10:24:00"
+msgstr ""
+
+#: page-builder-elements.php:3153
+msgid "Background Text for Date"
+msgstr ""
+
+#: page-builder-elements.php:3154
+msgid ""
+"You can enter a background text for the date on the style 1 and the style 2."
+msgstr ""
+
+#: page-builder-elements.php:3161 page-builder-elements.php:3613
+msgid "Day Text"
+msgstr ""
+
+#: page-builder-elements.php:3162 page-builder-elements.php:3614
+msgid "You can enter a text for the day. Default: Days."
+msgstr ""
+
+#: page-builder-elements.php:3169 page-builder-elements.php:3620
+msgid "Hour Text"
+msgstr ""
+
+#: page-builder-elements.php:3170 page-builder-elements.php:3621
+msgid "You can enter a text for the hour. Default: Hours."
+msgstr ""
+
+#: page-builder-elements.php:3177 page-builder-elements.php:3627
+msgid "Minute Text"
+msgstr ""
+
+#: page-builder-elements.php:3178 page-builder-elements.php:3628
+msgid "You can enter a text for the minute. Default: Minutes."
+msgstr ""
+
+#: page-builder-elements.php:3185 page-builder-elements.php:3634
+msgid "Second Text"
+msgstr ""
+
+#: page-builder-elements.php:3186 page-builder-elements.php:3635
+msgid "You can enter a text for the second. Default: Seconds."
+msgstr ""
+
+#: page-builder-elements.php:3193 page-builder-elements.php:5661
+msgid "Slider Images"
+msgstr ""
+
+#: page-builder-elements.php:3194
+msgid "You can upload slider images."
+msgstr ""
+
+#: page-builder-elements.php:3201 page-builder-elements.php:3591
+#: page-builder-elements.php:5085 page-builder-elements.php:7097
+#: page-builder-elements.php:8083 page-builder-elements.php:9285
+#: page-builder-elements.php:10384 page-builder-elements.php:12593
+#: page-builder-elements.php:13567 page-builder-elements.php:14412
+#: page-builder-elements.php:16519 page-builder-elements.php:16832
+#: page-builder-elements.php:17303 page-builder-elements.php:17522
+#: page-builder-elements.php:18094 page-builder-elements.php:18747
+#: page-builder-elements.php:19129 page-builder-elements.php:19439
+#: page-builder-elements.php:19771 page-builder-elements.php:20409
+#: page-builder-elements.php:20588 page-builder-elements.php:21370
+#: page-builder-elements.php:21561 page-builder-elements.php:21722
+#: page-builder-elements.php:21787 page-builder-elements.php:22058
+#: page-builder-elements.php:22646 widgets.php:460 widgets.php:670
+#: widgets.php:998 widgets.php:1324
+msgid "Style"
+msgstr ""
+
+#: page-builder-elements.php:3202 page-builder-elements.php:3592
+#: page-builder-elements.php:7098 page-builder-elements.php:8084
+#: page-builder-elements.php:9286 page-builder-elements.php:10385
+#: page-builder-elements.php:12594 page-builder-elements.php:12905
+#: page-builder-elements.php:12994 page-builder-elements.php:13023
+#: page-builder-elements.php:13075 page-builder-elements.php:13568
+#: page-builder-elements.php:14413 page-builder-elements.php:16520
+#: page-builder-elements.php:16833 page-builder-elements.php:17304
+#: page-builder-elements.php:17523 page-builder-elements.php:18095
+#: page-builder-elements.php:18748 page-builder-elements.php:19130
+#: page-builder-elements.php:19440 page-builder-elements.php:19772
+#: page-builder-elements.php:20410 page-builder-elements.php:20589
+#: page-builder-elements.php:21371 page-builder-elements.php:21562
+#: page-builder-elements.php:21723 page-builder-elements.php:21788
+#: page-builder-elements.php:22059 page-builder-elements.php:22647
+#: page-builder-elements.php:22675 page-builder-elements.php:22796
+msgid "You can choose a style."
+msgstr ""
+
+#: page-builder-elements.php:3582
+msgid "Countdown"
+msgstr ""
+
+#: page-builder-elements.php:3586
+msgid "Countdown element."
+msgstr ""
+
+#: page-builder-elements.php:3605
+msgid "Date"
+msgstr ""
+
+#: page-builder-elements.php:3606
+msgid "You can enter a date. Enter date with this format: 2020/09/23 10:24:00"
+msgstr ""
+
+#: page-builder-elements.php:4074
+msgid "Event Search"
+msgstr ""
+
+#: page-builder-elements.php:4099
+msgid "e.g. event, meetup"
+msgstr ""
+
+#: page-builder-elements.php:4536 page-builder-elements.php:22797
+#: page-builder-elements.php:22815 page-builder-elements.php:22827
+#: page-builder-elements.php:22839 post-types.php:112
+msgid "Speaker"
+msgstr ""
+
+#: page-builder-elements.php:4698 post-types.php:208
+msgid "Organizer"
+msgstr ""
+
+#: page-builder-elements.php:4821 page-builder-elements.php:5363
+#: page-builder-elements.php:7138 page-builder-elements.php:8126
+#: page-builder-elements.php:9350 page-builder-elements.php:10422
+#: page-builder-elements.php:11972 widgets.php:1509
+msgid "Status"
+msgstr ""
+
+#: page-builder-elements.php:4838 page-builder-elements.php:4842
+msgid "Upcoming"
+msgstr ""
+
+#: page-builder-elements.php:4863 page-builder-elements.php:4867
+msgid "Showing"
+msgstr ""
+
+#: page-builder-elements.php:4888 page-builder-elements.php:4892
+msgid "Expired"
+msgstr ""
+
+#: page-builder-elements.php:4969
+msgid "Enter a tag: art, food"
+msgstr ""
+
+#: page-builder-elements.php:4991 page-builder-elements.php:5000
+msgid "Sort by"
+msgstr ""
+
+#: page-builder-elements.php:4995 page-builder-elements.php:5004
+msgid "Name A > Z"
+msgstr ""
+
+#: page-builder-elements.php:4996 page-builder-elements.php:5005
+msgid "Name Z > A"
+msgstr ""
+
+#: page-builder-elements.php:5049
+msgid "Search"
+msgstr ""
+
+#: page-builder-elements.php:5059
+msgid ""
+"You should choose a search result page. You can choose the page from the "
+"Theme Options > Events > Event Search Results Page option."
+msgstr ""
+
+#: page-builder-elements.php:5076
+msgid "Event Search Tool"
+msgstr ""
+
+#: page-builder-elements.php:5080
+msgid "Event search tool element."
+msgstr ""
+
+#: page-builder-elements.php:5086
+msgid ""
+"You can choose a style. Style 3 for the slider background, style 2 for the "
+"image background, style 1 for the color background."
+msgstr ""
+
+#: page-builder-elements.php:5110 page-builder-elements.php:5685
+#: page-builder-elements.php:7118 page-builder-elements.php:8106
+#: page-builder-elements.php:9306 page-builder-elements.php:10526
+#: page-builder-elements.php:12930 page-builder-elements.php:13047
+#: page-builder-elements.php:13097 page-builder-elements.php:13138
+#: page-builder-elements.php:13595 page-builder-elements.php:14438
+#: page-builder-elements.php:15064 page-builder-elements.php:15807
+#: page-builder-elements.php:16575 page-builder-elements.php:16855
+#: page-builder-elements.php:18769 page-builder-elements.php:20115
+#: page-builder-elements.php:22666
+msgid "4 Column"
+msgstr ""
+
+#: page-builder-elements.php:5111 page-builder-elements.php:5686
+#: page-builder-elements.php:7119 page-builder-elements.php:8107
+#: page-builder-elements.php:9307 page-builder-elements.php:10527
+#: page-builder-elements.php:13098 page-builder-elements.php:13139
+#: page-builder-elements.php:13596 page-builder-elements.php:14439
+#: page-builder-elements.php:15065 page-builder-elements.php:15808
+#: page-builder-elements.php:16576 page-builder-elements.php:16856
+#: page-builder-elements.php:18770 page-builder-elements.php:22667
+msgid "5 Column"
+msgstr ""
+
+#: page-builder-elements.php:5112 page-builder-elements.php:5687
+#: page-builder-elements.php:7120 page-builder-elements.php:8108
+#: page-builder-elements.php:9308 page-builder-elements.php:10528
+#: page-builder-elements.php:13099 page-builder-elements.php:13140
+#: page-builder-elements.php:13597 page-builder-elements.php:14440
+#: page-builder-elements.php:15066 page-builder-elements.php:15809
+#: page-builder-elements.php:16577 page-builder-elements.php:16857
+#: page-builder-elements.php:18771 page-builder-elements.php:22668
+msgid "6 Column"
+msgstr ""
+
+#: page-builder-elements.php:5113 page-builder-elements.php:5688
+#: page-builder-elements.php:13100 page-builder-elements.php:16858
+msgid "7 Column"
+msgstr ""
+
+#: page-builder-elements.php:5114 page-builder-elements.php:5689
+#: page-builder-elements.php:13101 page-builder-elements.php:16859
+msgid "8 Column"
+msgstr ""
+
+#: page-builder-elements.php:5115 page-builder-elements.php:5690
+#: page-builder-elements.php:13102 page-builder-elements.php:16860
+msgid "9 Column"
+msgstr ""
+
+#: page-builder-elements.php:5116 page-builder-elements.php:5691
+#: page-builder-elements.php:13103 page-builder-elements.php:16861
+msgid "10 Column"
+msgstr ""
+
+#: page-builder-elements.php:5122
+msgid "Background Image for the Style 2"
+msgstr ""
+
+#: page-builder-elements.php:5123
+msgid "You can upload a background image for the style 2."
+msgstr ""
+
+#: page-builder-elements.php:5130 widgets.php:1346
+msgid "Search Title"
+msgstr ""
+
+#: page-builder-elements.php:5131
+msgid "You can choose status of the search title."
+msgstr ""
+
+#: page-builder-elements.php:5132 page-builder-elements.php:5145
+#: page-builder-elements.php:5153 page-builder-elements.php:5165
+#: page-builder-elements.php:5177 page-builder-elements.php:5189
+#: page-builder-elements.php:5197 page-builder-elements.php:5209
+#: page-builder-elements.php:5221 page-builder-elements.php:5233
+#: page-builder-elements.php:5241 page-builder-elements.php:5249
+#: page-builder-elements.php:5257 page-builder-elements.php:5269
+#: page-builder-elements.php:5287 page-builder-elements.php:5299
+#: page-builder-elements.php:5307 page-builder-elements.php:5315
+#: page-builder-elements.php:5323 page-builder-elements.php:5335
+#: page-builder-elements.php:5353 page-builder-elements.php:5365
+#: page-builder-elements.php:5377 page-builder-elements.php:5389
+#: page-builder-elements.php:5401 page-builder-elements.php:5413
+#: page-builder-elements.php:5425 page-builder-elements.php:5433
+#: page-builder-elements.php:5445 page-builder-elements.php:5457
+#: page-builder-elements.php:5469 page-builder-elements.php:5477
+#: page-builder-elements.php:5485 page-builder-elements.php:5493
+#: page-builder-elements.php:5501 page-builder-elements.php:5509
+#: page-builder-elements.php:5521 page-builder-elements.php:5533
+#: page-builder-elements.php:5541
+msgid "Fields"
+msgstr ""
+
+#: page-builder-elements.php:5143 widgets.php:1354
+msgid "Custom Search Text"
+msgstr ""
+
+#: page-builder-elements.php:5144
+msgid "You can enter a text. Default: Event Search:"
+msgstr ""
+
+#: page-builder-elements.php:5152
+msgid "You can choose status of the start date."
+msgstr ""
+
+#: page-builder-elements.php:5164
+msgid "You can choose status of the end date."
+msgstr ""
+
+#: page-builder-elements.php:5175 widgets.php:1375
+msgid "Keyword"
+msgstr ""
+
+#: page-builder-elements.php:5176
+msgid "You can choose status of the keyword."
+msgstr ""
+
+#: page-builder-elements.php:5187 widgets.php:1383
+msgid "Custom Keyword Text"
+msgstr ""
+
+#: page-builder-elements.php:5188 widgets.php:1385
+msgid "You can enter a text. Default: e.g. event, meetup"
+msgstr ""
+
+#: page-builder-elements.php:5196
+msgid "You can choose status of the categories."
+msgstr ""
+
+#: page-builder-elements.php:5207 page-builder-elements.php:11936
+#: post-types.php:459 post-types.php:461 widgets.php:1397
+msgid "Locations"
+msgstr ""
+
+#: page-builder-elements.php:5208
+msgid "You can choose status of the locations."
+msgstr ""
+
+#: page-builder-elements.php:5219 page-builder-elements.php:22569
+#: post-types.php:62 post-types.php:64 post-types.php:77 widgets.php:1405
+msgid "Venues"
+msgstr ""
+
+#: page-builder-elements.php:5220
+msgid "You can choose status of the venues."
+msgstr ""
+
+#: page-builder-elements.php:5231 widgets.php:650 widgets.php:1413
+msgid "Venue Count"
+msgstr ""
+
+#: page-builder-elements.php:5232
+msgid "You can enter a venue count."
+msgstr ""
+
+#: page-builder-elements.php:5239 page-builder-elements.php:14951
+#: page-builder-elements.php:16417 widgets.php:1419
+msgid "Include Venues"
+msgstr ""
+
+#: page-builder-elements.php:5240 page-builder-elements.php:5248
+#: page-builder-elements.php:14952 page-builder-elements.php:14959
+#: page-builder-elements.php:15639 page-builder-elements.php:16418
+#: page-builder-elements.php:16426
+msgid "You can enter venue ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:5247 page-builder-elements.php:14958
+#: page-builder-elements.php:15638 page-builder-elements.php:16425
+#: widgets.php:655 widgets.php:1425
+msgid "Exclude Venues"
+msgstr ""
+
+#: page-builder-elements.php:5255 widgets.php:1431
+msgid "Venue Order"
+msgstr ""
+
+#: page-builder-elements.php:5267 widgets.php:1439
+msgid "Venue Order Type"
+msgstr ""
+
+#: page-builder-elements.php:5285 page-builder-elements.php:12892
+#: page-builder-elements.php:12906 page-builder-elements.php:12924
+#: page-builder-elements.php:12938 page-builder-elements.php:12959
+#: page-builder-elements.php:12971 page-builder-elements.php:12983
+#: page-builder-elements.php:22570 post-types.php:111 post-types.php:113
+#: post-types.php:126 widgets.php:1453
+msgid "Speakers"
+msgstr ""
+
+#: page-builder-elements.php:5286
+msgid "You can choose status of the speakers."
+msgstr ""
+
+#: page-builder-elements.php:5297 widgets.php:978 widgets.php:1461
+msgid "Speaker Count"
+msgstr ""
+
+#: page-builder-elements.php:5298
+msgid "You can enter a speaker count."
+msgstr ""
+
+#: page-builder-elements.php:5305 page-builder-elements.php:13500
+#: widgets.php:1467
+msgid "Include Speakers"
+msgstr ""
+
+#: page-builder-elements.php:5306 page-builder-elements.php:5314
+#: page-builder-elements.php:13501 page-builder-elements.php:13509
+#: page-builder-elements.php:14252
+msgid "You can enter speaker ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:5313 page-builder-elements.php:13508
+#: page-builder-elements.php:14251 widgets.php:983 widgets.php:1473
+msgid "Exclude Speakers"
+msgstr ""
+
+#: page-builder-elements.php:5321 widgets.php:1479
+msgid "Speaker Order"
+msgstr ""
+
+#: page-builder-elements.php:5333 widgets.php:1487
+msgid "Speaker Order Type"
+msgstr ""
+
+#: page-builder-elements.php:5351 page-builder-elements.php:19120
+#: post-types.php:207 post-types.php:209 widgets.php:1501
+msgid "Organizers"
+msgstr ""
+
+#: page-builder-elements.php:5352
+msgid "You can choose status of the organizers."
+msgstr ""
+
+#: page-builder-elements.php:5364 page-builder-elements.php:7139
+#: page-builder-elements.php:8127 page-builder-elements.php:9351
+#: page-builder-elements.php:10423 page-builder-elements.php:11973
+#: page-builder-elements.php:22700
+msgid "You can choose status of the event status."
+msgstr ""
+
+#: page-builder-elements.php:5375 widgets.php:1517 widgets.php:1525
+#: widgets.php:1533
+msgid "Upcoming for the Status"
+msgstr ""
+
+#: page-builder-elements.php:5376
+msgid "You can choose status of the upcoming status for the status dropdown."
+msgstr ""
+
+#: page-builder-elements.php:5387
+msgid "Showing for the Status"
+msgstr ""
+
+#: page-builder-elements.php:5388
+msgid "You can choose status of the showing status for the status dropdown."
+msgstr ""
+
+#: page-builder-elements.php:5399
+msgid "Expired for the Status"
+msgstr ""
+
+#: page-builder-elements.php:5400
+msgid "You can choose status of the expired status for the status dropdown."
+msgstr ""
+
+#: page-builder-elements.php:5411 page-builder-elements.php:18025
+#: page-builder-elements.php:18690 post-types.php:250 post-types.php:334
+#: post-types.php:418 widgets.php:1541
+msgid "Tag"
+msgstr ""
+
+#: page-builder-elements.php:5412
+msgid "You can choose status of the tag."
+msgstr ""
+
+#: page-builder-elements.php:5423 widgets.php:1549
+msgid "Custom Tag Text"
+msgstr ""
+
+#: page-builder-elements.php:5424 widgets.php:1551
+msgid "You can enter a tag text. Enter a tag: art, food"
+msgstr ""
+
+#: page-builder-elements.php:5431
+msgid "Sort Type"
+msgstr ""
+
+#: page-builder-elements.php:5432
+msgid "You can choose status of the sort type."
+msgstr ""
+
+#: page-builder-elements.php:5443 widgets.php:1563
+msgid "Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5444
+msgid "You can choose status of the price slider."
+msgstr ""
+
+#: page-builder-elements.php:5455 widgets.php:1571
+msgid "Grid for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5456
+msgid "You can choose status of the grid for the price slider."
+msgstr ""
+
+#: page-builder-elements.php:5467 widgets.php:1579
+msgid "Min Price for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5468 widgets.php:1581
+msgid "You can enter a min price for the price slider. Default: 0"
+msgstr ""
+
+#: page-builder-elements.php:5475 widgets.php:1585
+msgid "Max Price for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5476 widgets.php:1587
+msgid "You can enter a max price for the price slider. Default: 999"
+msgstr ""
+
+#: page-builder-elements.php:5483 widgets.php:1591
+msgid "From Price for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5484 widgets.php:1593
+msgid ""
+"You can enter a from price for the price slider. Set start position for left "
+"handle (or for single handle). Default: 0"
+msgstr ""
+
+#: page-builder-elements.php:5491 widgets.php:1597
+msgid "To Price for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5492 widgets.php:1599
+msgid ""
+"You can enter a to price for the price slider. Set start position for right "
+"handle. Default: 299"
+msgstr ""
+
+#: page-builder-elements.php:5499 widgets.php:1603
+msgid "Step for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5500 widgets.php:1605
+msgid ""
+"You can enter a step for the price slider. Set sliders step. Always > 0. "
+"Could be fractional. Default: 1"
+msgstr ""
+
+#: page-builder-elements.php:5507 widgets.php:1609
+msgid "Hide Min-Max Label for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5508
+msgid "You can choose status of the min-max info label for the price slider."
+msgstr ""
+
+#: page-builder-elements.php:5519 widgets.php:1617
+msgid "Hide From-To Label for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5520
+msgid "You can choose status of the from-to info label for the price slider."
+msgstr ""
+
+#: page-builder-elements.php:5531 widgets.php:1625
+msgid "Prefix for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5532 widgets.php:1627
+msgid ""
+"You can enter a prefix text. Will be set up right before the number. "
+"Example: $100"
+msgstr ""
+
+#: page-builder-elements.php:5539 widgets.php:1631
+msgid "Postfix for the Price Slider"
+msgstr ""
+
+#: page-builder-elements.php:5540 widgets.php:1633
+msgid ""
+"You can enter a postfix text. Will be set up right after the number. "
+"Example: 100k"
+msgstr ""
+
+#: page-builder-elements.php:5548 page-builder-elements.php:7034
+#: page-builder-elements.php:19805 page-builder-elements.php:19812
+#: widgets.php:1664
+msgid "You can enter category ids. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:5564 widgets.php:1676
+msgid "You can enter organizer ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:5572 widgets.php:1682
+msgid ""
+"You can enter category ids. Example: 1, 2, 3 etc. If you have sub "
+"categories, it will work only for parents."
+msgstr ""
+
+#: page-builder-elements.php:5580 widgets.php:1688
+msgid ""
+"You can enter location ids. Separate with commas. Example: 1,2,3 etc. If you "
+"have sub locations, it will work only for parents."
+msgstr ""
+
+#: page-builder-elements.php:5588 widgets.php:1694
+msgid ""
+"You can enter organizer ids. Separate with commas. Example: 1,2,3 etc. If "
+"you have sub organizers, it will work only for parents."
+msgstr ""
+
+#: page-builder-elements.php:5595 page-builder-elements.php:9218
+#: page-builder-elements.php:14345 page-builder-elements.php:15732
+#: widgets.php:1698
+msgid "Taxonomy Order"
+msgstr ""
+
+#: page-builder-elements.php:5607 page-builder-elements.php:9230
+#: page-builder-elements.php:14357 page-builder-elements.php:15744
+#: widgets.php:1706
+msgid "Taxonomy Order Type"
+msgstr ""
+
+#: page-builder-elements.php:5612 page-builder-elements.php:9235
+#: page-builder-elements.php:14362 page-builder-elements.php:15749
+#: page-builder-elements.php:19192 page-builder-elements.php:19515
+#: page-builder-elements.php:19833 page-builder-elements.php:20244
+#: widgets.php:1708
+msgid "Name"
+msgstr ""
+
+#: page-builder-elements.php:5613 page-builder-elements.php:9236
+#: page-builder-elements.php:14363 page-builder-elements.php:15750
+#: page-builder-elements.php:19193 page-builder-elements.php:19516
+#: page-builder-elements.php:19834 widgets.php:1709
+msgid "Slug"
+msgstr ""
+
+#: page-builder-elements.php:5614 page-builder-elements.php:9237
+#: page-builder-elements.php:14364 page-builder-elements.php:15751
+#: page-builder-elements.php:19194 page-builder-elements.php:19517
+#: page-builder-elements.php:19835 widgets.php:1710
+msgid "Term Group"
+msgstr ""
+
+#: page-builder-elements.php:5615 page-builder-elements.php:9238
+#: page-builder-elements.php:14365 page-builder-elements.php:15752
+#: page-builder-elements.php:19195 page-builder-elements.php:19518
+#: page-builder-elements.php:19836 widgets.php:1711
+msgid "Term ID"
+msgstr ""
+
+#: page-builder-elements.php:5617 page-builder-elements.php:9240
+#: page-builder-elements.php:14367 page-builder-elements.php:15754
+#: page-builder-elements.php:19197 page-builder-elements.php:19520
+#: page-builder-elements.php:19838 widgets.php:1713
+msgid "Description"
+msgstr ""
+
+#: page-builder-elements.php:5618 page-builder-elements.php:9241
+#: page-builder-elements.php:14368 page-builder-elements.php:15755
+#: page-builder-elements.php:19198 page-builder-elements.php:19521
+#: page-builder-elements.php:19839 widgets.php:1714
+msgid "Parent"
+msgstr ""
+
+#: page-builder-elements.php:5625 page-builder-elements.php:9248
+#: page-builder-elements.php:14375 page-builder-elements.php:15762
+msgid "Hide Empty Taxonomies"
+msgstr ""
+
+#: page-builder-elements.php:5626 page-builder-elements.php:9249
+#: page-builder-elements.php:14376 page-builder-elements.php:15763
+#: widgets.php:1642
+msgid ""
+"You can choose visible status of the empty taxonomies. If you choose true "
+"option empty taxonomies will be hide."
+msgstr ""
+
+#: page-builder-elements.php:5637 page-builder-elements.php:9260
+#: page-builder-elements.php:14387 page-builder-elements.php:15774
+#: page-builder-elements.php:19216 page-builder-elements.php:19539
+#: page-builder-elements.php:19857 widgets.php:1646
+msgid "Childless"
+msgstr ""
+
+#: page-builder-elements.php:5638 page-builder-elements.php:9261
+#: page-builder-elements.php:14388 page-builder-elements.php:15775
+#: page-builder-elements.php:19217 page-builder-elements.php:19540
+#: page-builder-elements.php:19858
+msgid "You can choose status of the childless taxonomies."
+msgstr ""
+
+#: page-builder-elements.php:5649 page-builder-elements.php:19227
+#: page-builder-elements.php:19550 page-builder-elements.php:19868
+#: widgets.php:1654
+msgid "Hide Children"
+msgstr ""
+
+#: page-builder-elements.php:5650 page-builder-elements.php:19228
+#: page-builder-elements.php:19551 page-builder-elements.php:19869
+msgid "You can choose status of the children."
+msgstr ""
+
+#: page-builder-elements.php:5662
+msgid "You can upload slider images for the style 3."
+msgstr ""
+
+#: page-builder-elements.php:5670
+msgid ""
+"If you use the style 3, Enter a slider height. Example: 600px. If enter "
+"blank, it will have full height."
+msgstr ""
+
+#: page-builder-elements.php:6912
+msgid "There are no results that match your search."
+msgstr ""
+
+#: page-builder-elements.php:6936
+msgid "Event Search Results"
+msgstr ""
+
+#: page-builder-elements.php:6940
+msgid "Event search results element."
+msgstr ""
+
+#: page-builder-elements.php:6978
+msgid "Default Order"
+msgstr ""
+
+#: page-builder-elements.php:6979
+msgid ""
+"You can choose an order. If you do not choose an order type on the event "
+"search tool, this option will apply."
+msgstr ""
+
+#: page-builder-elements.php:6990
+msgid "Default Order Type"
+msgstr ""
+
+#: page-builder-elements.php:6991
+msgid ""
+"You can choose an order type. If you do not choose an order type on search "
+"tool this option visible."
+msgstr ""
+
+#: page-builder-elements.php:7010 page-builder-elements.php:7982
+#: page-builder-elements.php:9130 page-builder-elements.php:10295
+#: page-builder-elements.php:11725 page-builder-elements.php:12642
+#: page-builder-elements.php:22623
+msgid "You can hide the expired events."
+msgstr ""
+
+#: page-builder-elements.php:7066
+msgid "You can enter category ids. Example: 1, 2, 3 etc."
+msgstr ""
+
+#: page-builder-elements.php:7126 page-builder-elements.php:8114
+#: page-builder-elements.php:9338 page-builder-elements.php:10410
+#: page-builder-elements.php:11984
+msgid "Price"
+msgstr ""
+
+#: page-builder-elements.php:7127 page-builder-elements.php:8115
+#: page-builder-elements.php:9339 page-builder-elements.php:10411
+#: page-builder-elements.php:22688
+msgid "You can choose status of the event price."
+msgstr ""
+
+#: page-builder-elements.php:7151 page-builder-elements.php:8139
+#: page-builder-elements.php:9363 page-builder-elements.php:10435
+#: page-builder-elements.php:22712
+msgid "You can choose status of the event category."
+msgstr ""
+
+#: page-builder-elements.php:7198 page-builder-elements.php:8186
+#: page-builder-elements.php:9410 page-builder-elements.php:10482
+msgid "Start Time"
+msgstr ""
+
+#: page-builder-elements.php:7199 page-builder-elements.php:8187
+#: page-builder-elements.php:9411 page-builder-elements.php:10483
+#: page-builder-elements.php:22760
+msgid "You can choose status of the event start time."
+msgstr ""
+
+#: page-builder-elements.php:7210 page-builder-elements.php:8198
+#: page-builder-elements.php:9422 page-builder-elements.php:10494
+msgid "Ticket Amount"
+msgstr ""
+
+#: page-builder-elements.php:7211 page-builder-elements.php:8199
+#: page-builder-elements.php:22772
+msgid "You can choose status of the event ticket amount."
+msgstr ""
+
+#: page-builder-elements.php:7222 page-builder-elements.php:8210
+#: page-builder-elements.php:9434 page-builder-elements.php:10506
+#: page-builder-elements.php:15084 page-builder-elements.php:15851
+#: page-builder-elements.php:16555 page-builder-elements.php:18132
+#: page-builder-elements.php:18808
+msgid "Excerpt"
+msgstr ""
+
+#: page-builder-elements.php:7223 page-builder-elements.php:8211
+#: page-builder-elements.php:9435 page-builder-elements.php:10507
+#: page-builder-elements.php:22784
+msgid "You can choose status of the event excerpt."
+msgstr ""
+
+#: page-builder-elements.php:7907
+msgid "Event Listing"
+msgstr ""
+
+#: page-builder-elements.php:7911
+msgid "Event listing element."
+msgstr ""
+
+#: page-builder-elements.php:7994 page-builder-elements.php:9141
+#: page-builder-elements.php:10307
+msgid "Show Only Expired Events"
+msgstr ""
+
+#: page-builder-elements.php:7995 page-builder-elements.php:9142
+#: page-builder-elements.php:10308
+msgid "If you choose this option, you can list expired events."
+msgstr ""
+
+#: page-builder-elements.php:8020 page-builder-elements.php:8052
+#: page-builder-elements.php:9155 page-builder-elements.php:9187
+#: page-builder-elements.php:10321 page-builder-elements.php:10353
+#: page-builder-elements.php:14298 page-builder-elements.php:14322
+#: page-builder-elements.php:15015 page-builder-elements.php:15685
+#: page-builder-elements.php:15709 page-builder-elements.php:16472
+msgid "You can enter categories ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:8878 page-builder-elements.php:14020
+#: page-builder-elements.php:15475 page-builder-elements.php:22567
+msgid "All"
+msgstr ""
+
+#: page-builder-elements.php:8953 page-builder-elements.php:10189
+#: post-types.php:17
+msgid "All Events"
+msgstr ""
+
+#: page-builder-elements.php:9036
+#, php-format
+msgid "All %1$s Events"
+msgstr ""
+
+#: page-builder-elements.php:9065
+msgid "Categorized Events"
+msgstr ""
+
+#: page-builder-elements.php:9069
+msgid "Categorized events element."
+msgstr ""
+
+#: page-builder-elements.php:9075
+msgid "You can enter an event count for each tab."
+msgstr ""
+
+#: page-builder-elements.php:9272 page-builder-elements.php:14399
+#: page-builder-elements.php:15786
+msgid "Category List Align"
+msgstr ""
+
+#: page-builder-elements.php:9273 page-builder-elements.php:14400
+#: page-builder-elements.php:15787
+msgid "You can choose align of the category list."
+msgstr ""
+
+#: page-builder-elements.php:9277 page-builder-elements.php:14404
+#: page-builder-elements.php:15791 page-builder-elements.php:17319
+#: page-builder-elements.php:17538 page-builder-elements.php:19148
+#: page-builder-elements.php:19457 page-builder-elements.php:19789
+#: page-builder-elements.php:20099 page-builder-elements.php:20436
+#: page-builder-elements.php:20603 page-builder-elements.php:21390
+#: page-builder-elements.php:21582
+msgid "Left"
+msgstr ""
+
+#: page-builder-elements.php:9278 page-builder-elements.php:14405
+#: page-builder-elements.php:15792 page-builder-elements.php:17320
+#: page-builder-elements.php:17539 page-builder-elements.php:19149
+#: page-builder-elements.php:19458 page-builder-elements.php:19790
+#: page-builder-elements.php:20100 page-builder-elements.php:20437
+#: page-builder-elements.php:20604 page-builder-elements.php:21391
+#: page-builder-elements.php:21583
+msgid "Center"
+msgstr ""
+
+#: page-builder-elements.php:9279 page-builder-elements.php:14406
+#: page-builder-elements.php:15793 page-builder-elements.php:17321
+#: page-builder-elements.php:17540 page-builder-elements.php:19150
+#: page-builder-elements.php:19459 page-builder-elements.php:19791
+#: page-builder-elements.php:20101 page-builder-elements.php:20438
+#: page-builder-elements.php:20605 page-builder-elements.php:21392
+#: page-builder-elements.php:21584
+msgid "Right"
+msgstr ""
+
+#: page-builder-elements.php:9314
+msgid "All Events Tab"
+msgstr ""
+
+#: page-builder-elements.php:9315
+msgid "You can choose status of the all events tab."
+msgstr ""
+
+#: page-builder-elements.php:9326 page-builder-elements.php:10398
+msgid "All Events Button"
+msgstr ""
+
+#: page-builder-elements.php:9327 page-builder-elements.php:10399
+msgid "You can choose status of the all events button."
+msgstr ""
+
+#: page-builder-elements.php:9423 page-builder-elements.php:10495
+msgid "You can choose status of the ticket amount."
+msgstr ""
+
+#: page-builder-elements.php:10220
+msgid "Events Carousel"
+msgstr ""
+
+#: page-builder-elements.php:10224
+msgid "Events carousel element."
+msgstr ""
+
+#: page-builder-elements.php:11699
+msgid "Events Map"
+msgstr ""
+
+#: page-builder-elements.php:11703
+msgid "Events map element."
+msgstr ""
+
+#: page-builder-elements.php:11800 page-builder-elements.php:13191
+#: page-builder-elements.php:20771
+msgid "Map Height"
+msgstr ""
+
+#: page-builder-elements.php:11801 page-builder-elements.php:20772
+msgid ""
+"You can enter a map height. If you want to make it full height, enter 100vh "
+"value. Default: 450px"
+msgstr ""
+
+#: page-builder-elements.php:11802 page-builder-elements.php:11810
+#: page-builder-elements.php:11834 page-builder-elements.php:11842
+#: page-builder-elements.php:11850 page-builder-elements.php:11858
+#: page-builder-elements.php:11870 page-builder-elements.php:11878
+#: page-builder-elements.php:11890 page-builder-elements.php:11902
+#: page-builder-elements.php:11914 page-builder-elements.php:12897
+#: page-builder-elements.php:13169 page-builder-elements.php:13193
+#: page-builder-elements.php:13201
+msgid "Map"
+msgstr ""
+
+#: page-builder-elements.php:11808 page-builder-elements.php:13167
+#: page-builder-elements.php:20778
+msgid "Map Style"
+msgstr ""
+
+#: page-builder-elements.php:11809 page-builder-elements.php:13168
+#: page-builder-elements.php:20779
+msgid "You can choose a map style."
+msgstr ""
+
+#: page-builder-elements.php:11820 page-builder-elements.php:12916
+#: page-builder-elements.php:13179 page-builder-elements.php:13580
+#: page-builder-elements.php:14424 page-builder-elements.php:20789
+#: page-builder-elements.php:22807 widgets.php:1007
+msgid "Style 8"
+msgstr ""
+
+#: page-builder-elements.php:11821 page-builder-elements.php:13180
+#: page-builder-elements.php:20790
+msgid "Style 9"
+msgstr ""
+
+#: page-builder-elements.php:11822 page-builder-elements.php:13181
+#: page-builder-elements.php:20791
+msgid "Style 10"
+msgstr ""
+
+#: page-builder-elements.php:11823 page-builder-elements.php:13182
+#: page-builder-elements.php:20792
+msgid "Style 11"
+msgstr ""
+
+#: page-builder-elements.php:11824 page-builder-elements.php:13183
+#: page-builder-elements.php:20793
+msgid "Style 12"
+msgstr ""
+
+#: page-builder-elements.php:11825 page-builder-elements.php:13184
+#: page-builder-elements.php:20794
+msgid "Style 13"
+msgstr ""
+
+#: page-builder-elements.php:11826 page-builder-elements.php:13185
+#: page-builder-elements.php:20795
+msgid "Style 14"
+msgstr ""
+
+#: page-builder-elements.php:11832 page-builder-elements.php:20801
+#: page-builder-elements.php:20891
+msgid "Map Lat"
+msgstr ""
+
+#: page-builder-elements.php:11833 page-builder-elements.php:20802
+msgid ""
+"You can enter a lat coordinate. The map will open on this lat coordinate."
+msgstr ""
+
+#: page-builder-elements.php:11840 page-builder-elements.php:20808
+#: page-builder-elements.php:20898
+msgid "Map Lng"
+msgstr ""
+
+#: page-builder-elements.php:11841 page-builder-elements.php:20809
+msgid ""
+"You can enter a lng coordinate. The map will open on this lng coordinate."
+msgstr ""
+
+#: page-builder-elements.php:11848 page-builder-elements.php:13199
+#: page-builder-elements.php:20815
+msgid "Map Zoom"
+msgstr ""
+
+#: page-builder-elements.php:11849 page-builder-elements.php:20816
+msgid "You can enter a map zoom value. Default: 13"
+msgstr ""
+
+#: page-builder-elements.php:11856 page-builder-elements.php:20822
+msgid "Map Zoom Control"
+msgstr ""
+
+#: page-builder-elements.php:11857 page-builder-elements.php:20823
+msgid "You can choose status of the map zoom control."
+msgstr ""
+
+#: page-builder-elements.php:11868 page-builder-elements.php:20833
+#: page-builder-elements.php:20905
+msgid "Map Icon"
+msgstr ""
+
+#: page-builder-elements.php:11869
+msgid ""
+"You can upload a map icon. If an event has not any map icon, this icon will "
+"show on the map."
+msgstr ""
+
+#: page-builder-elements.php:11876 page-builder-elements.php:20840
+msgid "Map Type"
+msgstr ""
+
+#: page-builder-elements.php:11877 page-builder-elements.php:20841
+msgid "You can choose status of the map type."
+msgstr ""
+
+#: page-builder-elements.php:11888 page-builder-elements.php:20851
+msgid "Map Scale"
+msgstr ""
+
+#: page-builder-elements.php:11889 page-builder-elements.php:20852
+msgid "You can choose status of the map scale."
+msgstr ""
+
+#: page-builder-elements.php:11900 page-builder-elements.php:20862
+msgid "Map Fullscreen"
+msgstr ""
+
+#: page-builder-elements.php:11901 page-builder-elements.php:20863
+msgid "You can choose status of the map fullscreen control."
+msgstr ""
+
+#: page-builder-elements.php:11912 page-builder-elements.php:20873
+msgid "Map Streets"
+msgstr ""
+
+#: page-builder-elements.php:11913 page-builder-elements.php:20874
+msgid "You can choose status of the map streets."
+msgstr ""
+
+#: page-builder-elements.php:11924 page-builder-elements.php:19749
+#: post-types.php:165 post-types.php:167 post-types.php:291 post-types.php:293
+#: post-types.php:375 post-types.php:377
+msgid "Categories"
+msgstr ""
+
+#: page-builder-elements.php:11925
+msgid "You can choose status of the event categories."
+msgstr ""
+
+#: page-builder-elements.php:11937
+msgid "You can choose status of the event locations."
+msgstr ""
+
+#: page-builder-elements.php:11985
+msgid "You can choose status of the event ticket price."
+msgstr ""
+
+#: page-builder-elements.php:12555
+msgid "All Day"
+msgstr ""
+
+#: page-builder-elements.php:12556
+msgid "No events to display."
+msgstr ""
+
+#: page-builder-elements.php:12559
+msgid "Today"
+msgstr ""
+
+#: page-builder-elements.php:12560
+msgid "Month"
+msgstr ""
+
+#: page-builder-elements.php:12561
+msgid "Week"
+msgstr ""
+
+#: page-builder-elements.php:12562
+msgid "Day"
+msgstr ""
+
+#: page-builder-elements.php:12563
+msgid "List"
+msgstr ""
+
+#: page-builder-elements.php:12584
+msgid "Events Calendar"
+msgstr ""
+
+#: page-builder-elements.php:12588
+msgid "Events calendar element."
+msgstr ""
+
+#: page-builder-elements.php:12605
+msgid "Calendar Type"
+msgstr ""
+
+#: page-builder-elements.php:12606
+msgid "You can choose a calendar type."
+msgstr ""
+
+#: page-builder-elements.php:12611 template-studio.php:49
+msgid "Calendar"
+msgstr ""
+
+#: page-builder-elements.php:12612
+msgid "Calendar + List Week"
+msgstr ""
+
+#: page-builder-elements.php:12613
+msgid "Calendar + List Day"
+msgstr ""
+
+#: page-builder-elements.php:12614
+msgid "Fully"
+msgstr ""
+
+#: page-builder-elements.php:12615
+msgid "List Year"
+msgstr ""
+
+#: page-builder-elements.php:12616
+msgid "List Month"
+msgstr ""
+
+#: page-builder-elements.php:12617
+msgid "List Week"
+msgstr ""
+
+#: page-builder-elements.php:12618
+msgid "List Day"
+msgstr ""
+
+#: page-builder-elements.php:12619
+msgid "External Dragging"
+msgstr ""
+
+#: page-builder-elements.php:12653
+msgid "First Day of Week"
+msgstr ""
+
+#: page-builder-elements.php:12654
+msgid ""
+"You can enter first day of the week. Sunday = 0, Monday = 1, Tuesday = 2, "
+"etc. Default: 0"
+msgstr ""
+
+#: page-builder-elements.php:12661
+msgid "Nav Links"
+msgstr ""
+
+#: page-builder-elements.php:12662
+msgid "You can choose status of the nav links."
+msgstr ""
+
+#: page-builder-elements.php:12673
+msgid "Editable"
+msgstr ""
+
+#: page-builder-elements.php:12674
+msgid "You can choose status of the editable function."
+msgstr ""
+
+#: page-builder-elements.php:12685
+msgid "Show Non Current Dates"
+msgstr ""
+
+#: page-builder-elements.php:12686
+msgid "You can choose status of the show non current dates."
+msgstr ""
+
+#: page-builder-elements.php:12697
+msgid "Date Format for the Title"
+msgstr ""
+
+#: page-builder-elements.php:12698
+msgid "You can enter a date format for the title. Default: MMMM YYYY."
+msgstr ""
+
+#: page-builder-elements.php:12705
+msgid "Calendar Height"
+msgstr ""
+
+#: page-builder-elements.php:12706
+msgid "You can enter a calendar height. Default: 1000."
+msgstr ""
+
+#: page-builder-elements.php:12868
+msgid "Get an Event Content"
+msgstr ""
+
+#: page-builder-elements.php:12872
+msgid "The element gets event contents."
+msgstr ""
+
+#: page-builder-elements.php:12877
+msgid "Event ID"
+msgstr ""
+
+#: page-builder-elements.php:12878
+msgid "You can enter an event ID. The content will get from this event."
+msgstr ""
+
+#: page-builder-elements.php:12886 page-builder-elements.php:22548
+msgid "Content Type"
+msgstr ""
+
+#: page-builder-elements.php:12887
+msgid "You can choose a content type. Which content do you want to get?"
+msgstr ""
+
+#: page-builder-elements.php:12893 page-builder-elements.php:12995
+#: page-builder-elements.php:13012
+msgid "Schedule"
+msgstr ""
+
+#: page-builder-elements.php:12894 page-builder-elements.php:13024
+#: page-builder-elements.php:13041 page-builder-elements.php:13055
+msgid "Tickets"
+msgstr ""
+
+#: page-builder-elements.php:12895 page-builder-elements.php:13076
+#: page-builder-elements.php:13091 page-builder-elements.php:13111
+#: page-builder-elements.php:16823 template-studio.php:598
+msgid "Sponsors"
+msgstr ""
+
+#: page-builder-elements.php:12896 page-builder-elements.php:13132
+#: page-builder-elements.php:13148
+msgid "Photos"
+msgstr ""
+
+#: page-builder-elements.php:12898 page-builder-elements.php:21909
+#: template-studio.php:220
+msgid "FAQ"
+msgstr ""
+
+#: page-builder-elements.php:12904 page-builder-elements.php:22795
+msgid "Speaker Listing Style"
+msgstr ""
+
+#: page-builder-elements.php:12922
+msgid "Speaker Column"
+msgstr ""
+
+#: page-builder-elements.php:12936
+msgid "Speaker Column Space"
+msgstr ""
+
+#: page-builder-elements.php:12937 page-builder-elements.php:13054
+#: page-builder-elements.php:13110 page-builder-elements.php:13147
+#: page-builder-elements.php:16868 page-builder-elements.php:23011
+msgid "You can choose a column space."
+msgstr ""
+
+#: page-builder-elements.php:12941 page-builder-elements.php:13058
+#: page-builder-elements.php:13114 page-builder-elements.php:13151
+#: page-builder-elements.php:16872 page-builder-elements.php:23014
+msgid "0"
+msgstr ""
+
+#: page-builder-elements.php:12957
+msgid "Speaker Profession"
+msgstr ""
+
+#: page-builder-elements.php:12958
+msgid "You can choose status of the speaker profession."
+msgstr ""
+
+#: page-builder-elements.php:12969
+msgid "Speaker Summary"
+msgstr ""
+
+#: page-builder-elements.php:12970
+msgid "You can choose status of the speaker summary."
+msgstr ""
+
+#: page-builder-elements.php:12981 page-builder-elements.php:22837
+msgid "Speaker Social Links"
+msgstr ""
+
+#: page-builder-elements.php:12982 page-builder-elements.php:22838
+msgid "You can choose status of the speaker social links."
+msgstr ""
+
+#: page-builder-elements.php:12993
+msgid "Schedule Style"
+msgstr ""
+
+#: page-builder-elements.php:13010
+msgid "Schedule Items Collapsed for the Dropdown"
+msgstr ""
+
+#: page-builder-elements.php:13011
+msgid ""
+"You can choose opening status of the schedule items for the dropdown version "
+"(Style 1, Style 2 and Style 3)."
+msgstr ""
+
+#: page-builder-elements.php:13022
+msgid "Ticket Style"
+msgstr ""
+
+#: page-builder-elements.php:13039
+msgid "Ticket Column"
+msgstr ""
+
+#: page-builder-elements.php:13053
+msgid "Ticket Column Space"
+msgstr ""
+
+#: page-builder-elements.php:13074
+msgid "Sponsor Style"
+msgstr ""
+
+#: page-builder-elements.php:13089
+msgid "Sponsor Column"
+msgstr ""
+
+#: page-builder-elements.php:13109
+msgid "Sponsor Column Space"
+msgstr ""
+
+#: page-builder-elements.php:13130
+msgid "Photo Column"
+msgstr ""
+
+#: page-builder-elements.php:13146
+msgid "Photo Column Space"
+msgstr ""
+
+#: page-builder-elements.php:13192
+msgid ""
+"You can enter a map height. If enter blank it, the standart height will be "
+"apply."
+msgstr ""
+
+#: page-builder-elements.php:13200
+msgid ""
+"You can enter a map zoom. If enter blank it, the standart zoom will be apply."
+msgstr ""
+
+#: page-builder-elements.php:13483
+msgid "Speaker Listing"
+msgstr ""
+
+#: page-builder-elements.php:13487
+msgid "Speakers list element."
+msgstr ""
+
+#: page-builder-elements.php:13603 page-builder-elements.php:14470
+msgid "Profession / Company"
+msgstr ""
+
+#: page-builder-elements.php:13604 page-builder-elements.php:14471
+msgid ""
+"You can choose status of the profession / company info. You can choose the "
+"field you want to show from the Theme Settings > Speakers page."
+msgstr ""
+
+#: page-builder-elements.php:13615 page-builder-elements.php:14482
+msgid "Short Biography"
+msgstr ""
+
+#: page-builder-elements.php:13616 page-builder-elements.php:14483
+msgid "You can choose status of the short biography."
+msgstr ""
+
+#: page-builder-elements.php:13627 page-builder-elements.php:14494
+#: page-builder-elements.php:21778
+msgid "Social Links"
+msgstr ""
+
+#: page-builder-elements.php:13628 page-builder-elements.php:14495
+msgid "You can choose status of the social links."
+msgstr ""
+
+#: page-builder-elements.php:14109 post-types.php:115
+msgid "All Speakers"
+msgstr ""
+
+#: page-builder-elements.php:14205
+#, php-format
+msgid "All %1$s Speakers"
+msgstr ""
+
+#: page-builder-elements.php:14234
+msgid "Categorized Speakers"
+msgstr ""
+
+#: page-builder-elements.php:14238
+msgid "Categorized speakers element."
+msgstr ""
+
+#: page-builder-elements.php:14244 page-builder-elements.php:15631
+msgid "You can enter a count for each tab."
+msgstr ""
+
+#: page-builder-elements.php:14446
+msgid "All Speakers Tab"
+msgstr ""
+
+#: page-builder-elements.php:14447
+msgid "You can choose status of the all speakers tab."
+msgstr ""
+
+#: page-builder-elements.php:14458
+msgid "All Speakers Button"
+msgstr ""
+
+#: page-builder-elements.php:14459
+msgid "You can choose status of the all speakers button."
+msgstr ""
+
+#: page-builder-elements.php:14935 template-studio.php:607
+msgid "Venue Listing"
+msgstr ""
+
+#: page-builder-elements.php:14939
+msgid "Venue listing element."
+msgstr ""
+
+#: page-builder-elements.php:15073 page-builder-elements.php:15840
+#: page-builder-elements.php:16544 page-builder-elements.php:22850
+msgid "You can choose status of the venue location."
+msgstr ""
+
+#: page-builder-elements.php:15085 page-builder-elements.php:15852
+#: page-builder-elements.php:16556 page-builder-elements.php:22862
+msgid "You can choose status of the venue excerpt."
+msgstr ""
+
+#: page-builder-elements.php:15530 page-builder-elements.php:16370
+#: post-types.php:66
+msgid "All Venues"
+msgstr ""
+
+#: page-builder-elements.php:15592
+#, php-format
+msgid "All %1$s Venues"
+msgstr ""
+
+#: page-builder-elements.php:15621 template-studio.php:130
+msgid "Categorized Venues"
+msgstr ""
+
+#: page-builder-elements.php:15625
+msgid "Categorized venues element."
+msgstr ""
+
+#: page-builder-elements.php:15815
+msgid "All Venues Tab"
+msgstr ""
+
+#: page-builder-elements.php:15816
+msgid "You can choose status of the all venues tab."
+msgstr ""
+
+#: page-builder-elements.php:15827 page-builder-elements.php:16531
+msgid "All Venues Button"
+msgstr ""
+
+#: page-builder-elements.php:15828
+msgid "You can choose status of the all venues button."
+msgstr ""
+
+#: page-builder-elements.php:16400
+msgid "Venues Carousel"
+msgstr ""
+
+#: page-builder-elements.php:16404
+msgid "Venues carousel element."
+msgstr ""
+
+#: page-builder-elements.php:16532
+msgid "You can choose status of all venues button."
+msgstr ""
+
+#: page-builder-elements.php:16827
+msgid "You can create a sponsor list."
+msgstr ""
+
+#: page-builder-elements.php:16888
+msgid "Clients"
+msgstr ""
+
+#: page-builder-elements.php:16889
+msgid "You can create sponsors from this panel."
+msgstr ""
+
+#: page-builder-elements.php:16895
+msgid "Logo"
+msgstr ""
+
+#: page-builder-elements.php:16896
+msgid "You can upload a client logo. Recommended size: 540x540"
+msgstr ""
+
+#: page-builder-elements.php:16911
+msgid "Grayscale"
+msgstr ""
+
+#: page-builder-elements.php:16912
+msgid "You can choose status of the grayscale. You can make the logo gray."
+msgstr ""
+
+#: page-builder-elements.php:16922 page-builder-elements.php:17395
+#: page-builder-elements.php:21080
+msgid "Link Status"
+msgstr ""
+
+#: page-builder-elements.php:16923 page-builder-elements.php:17396
+#: page-builder-elements.php:21081
+msgid "You can choose status of the link."
+msgstr ""
+
+#: page-builder-elements.php:16933 page-builder-elements.php:17066
+#: page-builder-elements.php:17406 page-builder-elements.php:17575
+#: page-builder-elements.php:21091
+msgid "Link"
+msgstr ""
+
+#: page-builder-elements.php:17041
+msgid "Banner Box"
+msgstr ""
+
+#: page-builder-elements.php:17045
+msgid "Banner box element."
+msgstr ""
+
+#: page-builder-elements.php:17073 page-builder-elements.php:17356
+#: page-builder-elements.php:20237
+msgid "Image"
+msgstr ""
+
+#: page-builder-elements.php:17074
+msgid "You can upload an image for background of the banner."
+msgstr ""
+
+#: page-builder-elements.php:17294
+msgid "Feature Box"
+msgstr ""
+
+#: page-builder-elements.php:17298
+msgid "You can create a feature box."
+msgstr ""
+
+#: page-builder-elements.php:17315 page-builder-elements.php:17534
+#: page-builder-elements.php:19144 page-builder-elements.php:19453
+#: page-builder-elements.php:19785 page-builder-elements.php:20095
+#: page-builder-elements.php:20432 page-builder-elements.php:20599
+#: page-builder-elements.php:21386 page-builder-elements.php:21577
+msgid "Align"
+msgstr ""
+
+#: page-builder-elements.php:17316 page-builder-elements.php:17535
+#: page-builder-elements.php:19145 page-builder-elements.php:19454
+#: page-builder-elements.php:19786 page-builder-elements.php:20096
+#: page-builder-elements.php:20433 page-builder-elements.php:20600
+#: page-builder-elements.php:21387 page-builder-elements.php:21578
+msgid "You can choose an align."
+msgstr ""
+
+#: page-builder-elements.php:17349 page-builder-elements.php:20619
+msgid "Number"
+msgstr ""
+
+#: page-builder-elements.php:17350 page-builder-elements.php:20620
+msgid "You can enter a number."
+msgstr ""
+
+#: page-builder-elements.php:17357
+msgid ""
+"You can upload an image for style 1. Recommended sizes: Style 1: 540x540"
+msgstr ""
+
+#: page-builder-elements.php:17363
+msgid "Image Background Color"
+msgstr ""
+
+#: page-builder-elements.php:17364
+msgid "You can choose a background color for the feature box image."
+msgstr ""
+
+#: page-builder-elements.php:17370
+msgid "Opacity Effect"
+msgstr ""
+
+#: page-builder-elements.php:17371
+msgid "You can choose status of the opacity effect."
+msgstr ""
+
+#: page-builder-elements.php:17381 page-builder-elements.php:20478
+#: page-builder-elements.php:22096
+msgid "Font Icon"
+msgstr ""
+
+#: page-builder-elements.php:17382
+msgid ""
+"You can enter an icon for style 2. If you want to use SVG icon, enter blank "
+"it. Example: fab fa-wordpress-simple, fas fa-map-marker-alt. Icon list: "
+"https://goo.gl/vdPEsc"
+msgstr ""
+
+#: page-builder-elements.php:17388 page-builder-elements.php:17568
+#: page-builder-elements.php:20485 page-builder-elements.php:21412
+#: page-builder-elements.php:21606 page-builder-elements.php:22103
+msgid "SVG Icon"
+msgstr ""
+
+#: page-builder-elements.php:17513
+msgid "Service Box"
+msgstr ""
+
+#: page-builder-elements.php:17517
+msgid "Service Box element."
+msgstr ""
+
+#: page-builder-elements.php:17561 page-builder-elements.php:21405
+#: page-builder-elements.php:21598
+msgid "Icon"
+msgstr ""
+
+#: page-builder-elements.php:17562 page-builder-elements.php:20479
+#: page-builder-elements.php:21406 page-builder-elements.php:21599
+#: page-builder-elements.php:22097
+msgid ""
+"You can enter an icon. If you want to use SVG icon, enter blank it. Example: "
+"fab fa-wordpress-simple, fas fa-map-marker-alt. Icon list: https://goo.gl/"
+"vdPEsc"
+msgstr ""
+
+#: page-builder-elements.php:17576
+msgid "You can crete a link."
+msgstr ""
+
+#: page-builder-elements.php:17965 page-builder-elements.php:18628
+#: post-types.php:168 post-types.php:294 post-types.php:378 widgets.php:153
+msgid "All Categories"
+msgstr ""
+
+#: page-builder-elements.php:17983 template-studio.php:22
+msgid "Blog"
+msgstr ""
+
+#: page-builder-elements.php:17987
+msgid "Blog post listing element."
+msgstr ""
+
+#: page-builder-elements.php:17993 page-builder-elements.php:18656
+msgid "You can enter a post count."
+msgstr ""
+
+#: page-builder-elements.php:18001 page-builder-elements.php:18665
+msgid "You can choose a post category."
+msgstr ""
+
+#: page-builder-elements.php:18009 page-builder-elements.php:18674
+msgid "Include Posts"
+msgstr ""
+
+#: page-builder-elements.php:18010 page-builder-elements.php:18018
+#: page-builder-elements.php:18675 page-builder-elements.php:18683
+msgid "You can enter post ids. Separate with commas. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:18017 page-builder-elements.php:18682
+#: widgets.php:180
+msgid "Exclude Posts"
+msgstr ""
+
+#: page-builder-elements.php:18026 page-builder-elements.php:18691
+msgid "You can enter a post tag. Example: Event"
+msgstr ""
+
+#: page-builder-elements.php:18070 page-builder-elements.php:18735
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: page-builder-elements.php:18071 page-builder-elements.php:18736
+msgid "You can choose status of the ignore sticky posts."
+msgstr ""
+
+#: page-builder-elements.php:18109 page-builder-elements.php:18785
+msgid "You can choose status of the category name."
+msgstr ""
+
+#: page-builder-elements.php:18121 page-builder-elements.php:18797
+msgid "You can choose status of the post information."
+msgstr ""
+
+#: page-builder-elements.php:18133 page-builder-elements.php:18809
+msgid "You can choose status of the post excerpt."
+msgstr ""
+
+#: page-builder-elements.php:18144 page-builder-elements.php:18820
+msgid "Read More"
+msgstr ""
+
+#: page-builder-elements.php:18145 page-builder-elements.php:18821
+msgid "You can choose status of the read more button."
+msgstr ""
+
+#: page-builder-elements.php:18646
+msgid "Blog Carousel"
+msgstr ""
+
+#: page-builder-elements.php:18650
+msgid "Blog carousel element."
+msgstr ""
+
+#: page-builder-elements.php:18655 widgets.php:146
+msgid "Post Count"
+msgstr ""
+
+#: page-builder-elements.php:18777
+msgid "Blog Page Link"
+msgstr ""
+
+#: page-builder-elements.php:18778
+msgid "You can create a all posts."
+msgstr ""
+
+#: page-builder-elements.php:19124
+msgid "You can list the organizers."
+msgstr ""
+
+#: page-builder-elements.php:19164 page-builder-elements.php:19171
+msgid "You can enter organizer ids. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:19205
+msgid "Empty Organizers"
+msgstr ""
+
+#: page-builder-elements.php:19206
+msgid ""
+"You can choose visible status of the empty organizers. If you choose true "
+"option empty organizers will be hide."
+msgstr ""
+
+#: page-builder-elements.php:19238 page-builder-elements.php:19561
+#: page-builder-elements.php:19879
+msgid "Show Count"
+msgstr ""
+
+#: page-builder-elements.php:19239 page-builder-elements.php:19562
+#: page-builder-elements.php:19880
+msgid "You can choose status of show the post count."
+msgstr ""
+
+#: page-builder-elements.php:19430 post-types.php:249 post-types.php:251
+#: post-types.php:333 post-types.php:335 post-types.php:417 post-types.php:419
+msgid "Tags"
+msgstr ""
+
+#: page-builder-elements.php:19434
+msgid "You can list the tags."
+msgstr ""
+
+#: page-builder-elements.php:19465 page-builder-elements.php:19758
+#: page-builder-elements.php:22561
+msgid "Post Type"
+msgstr ""
+
+#: page-builder-elements.php:19466 page-builder-elements.php:19759
+#: page-builder-elements.php:22562
+msgid "You can choose a post type."
+msgstr ""
+
+#: page-builder-elements.php:19470
+msgid "Post Tags"
+msgstr ""
+
+#: page-builder-elements.php:19471
+msgid "Event Tags"
+msgstr ""
+
+#: page-builder-elements.php:19472
+msgid "Venue Tags"
+msgstr ""
+
+#: page-builder-elements.php:19473
+msgid "Speaker Tags"
+msgstr ""
+
+#: page-builder-elements.php:19487 page-builder-elements.php:19494
+msgid "You can enter tag ids. Example: 1,2,3 etc."
+msgstr ""
+
+#: page-builder-elements.php:19493
+msgid "Include Tags"
+msgstr ""
+
+#: page-builder-elements.php:19528
+msgid "Empty Tags"
+msgstr ""
+
+#: page-builder-elements.php:19529
+msgid ""
+"You can choose visible status of the empty tags. If you choose true option "
+"empty tags will be hide."
+msgstr ""
+
+#: page-builder-elements.php:19753
+msgid "You can list the categories."
+msgstr ""
+
+#: page-builder-elements.php:19763
+msgid "Post Categories"
+msgstr ""
+
+#: page-builder-elements.php:19764
+msgid "Event Categories"
+msgstr ""
+
+#: page-builder-elements.php:19765
+msgid "Venue Categories"
+msgstr ""
+
+#: page-builder-elements.php:19846
+msgid "Empty Categories"
+msgstr ""
+
+#: page-builder-elements.php:19847
+msgid ""
+"You can choose visible status of the empty categories. If you choose true "
+"option empty categories will be hide."
+msgstr ""
+
+#: page-builder-elements.php:20083
+msgid "Testimonials"
+msgstr ""
+
+#: page-builder-elements.php:20090
+msgid "Testimonial carousel element."
+msgstr ""
+
+#: page-builder-elements.php:20226
+msgid "Testimonials Carousel Item"
+msgstr ""
+
+#: page-builder-elements.php:20232
+msgid "Testimonials carousel item element."
+msgstr ""
+
+#: page-builder-elements.php:20238
+msgid "You can upload a customer image. Recommended size: 110x110"
+msgstr ""
+
+#: page-builder-elements.php:20245
+msgid "You can enter a customer name."
+msgstr ""
+
+#: page-builder-elements.php:20252
+msgid "Content"
+msgstr ""
+
+#: page-builder-elements.php:20253
+msgid "You can enter a customer feedback."
+msgstr ""
+
+#: page-builder-elements.php:20259
+msgid "Slide Autoplay"
+msgstr ""
+
+#: page-builder-elements.php:20400
+msgid "Heading"
+msgstr ""
+
+#: page-builder-elements.php:20404
+msgid "Heading element."
+msgstr ""
+
+#: page-builder-elements.php:20421
+msgid "Size"
+msgstr ""
+
+#: page-builder-elements.php:20422
+msgid "You can choose a size."
+msgstr ""
+
+#: page-builder-elements.php:20425
+msgid "Size 1"
+msgstr ""
+
+#: page-builder-elements.php:20426
+msgid "Size 2"
+msgstr ""
+
+#: page-builder-elements.php:20468
+msgid "You can choose status of the separator."
+msgstr ""
+
+#: page-builder-elements.php:20579
+msgid "Counter"
+msgstr ""
+
+#: page-builder-elements.php:20583
+msgid "Number counter element."
+msgstr ""
+
+#: page-builder-elements.php:20627
+msgid "Delay"
+msgstr ""
+
+#: page-builder-elements.php:20628
+msgid ""
+"You can enter a delay value. The delay in milliseconds per number count up. "
+"Default: 10."
+msgstr ""
+
+#: page-builder-elements.php:20634
+msgid "Time"
+msgstr ""
+
+#: page-builder-elements.php:20635
+msgid ""
+"You can enter a time. The total duration of the count up animation. Default: "
+"2000."
+msgstr ""
+
+#: page-builder-elements.php:20762
+msgid "Google Maps"
+msgstr ""
+
+#: page-builder-elements.php:20766
+msgid "Google Map element."
+msgstr ""
+
+#: page-builder-elements.php:20834
+msgid ""
+"You can upload a map icon. If you will not upload any map icon, the default "
+"icon will show."
+msgstr ""
+
+#: page-builder-elements.php:20884
+msgid "Markers"
+msgstr ""
+
+#: page-builder-elements.php:20885
+msgid "You can create markers from this panel."
+msgstr ""
+
+#: page-builder-elements.php:20892
+msgid "You can enter a lat coordinate."
+msgstr ""
+
+#: page-builder-elements.php:20899
+msgid "You can enter a lng coordinate."
+msgstr ""
+
+#: page-builder-elements.php:20906
+msgid ""
+"You can upload a map icon for this marker. If you will not upload any map "
+"icon, the default icon will show."
+msgstr ""
+
+#: page-builder-elements.php:21032
+msgid "Contact Box"
+msgstr ""
+
+#: page-builder-elements.php:21036
+msgid "Contact box element."
+msgstr ""
+
+#: page-builder-elements.php:21041
+msgid "Address"
+msgstr ""
+
+#: page-builder-elements.php:21042
+msgid "You can enter an address."
+msgstr ""
+
+#: page-builder-elements.php:21049
+msgid "Email Address"
+msgstr ""
+
+#: page-builder-elements.php:21050
+msgid "You can enter an email address."
+msgstr ""
+
+#: page-builder-elements.php:21057
+msgid "Phone Number"
+msgstr ""
+
+#: page-builder-elements.php:21058
+msgid "You can enter a phone number."
+msgstr ""
+
+#: page-builder-elements.php:21065
+msgid "Fax Number"
+msgstr ""
+
+#: page-builder-elements.php:21066
+msgid "You can enter a fax number."
+msgstr ""
+
+#: page-builder-elements.php:21148 page-builder-elements.php:21175
+#: page-builder-elements.php:21202 page-builder-elements.php:21229
+msgid "Download via"
+msgstr ""
+
+#: page-builder-elements.php:21149 page-builder-elements.php:21259
+msgid "Apple Store"
+msgstr ""
+
+#: page-builder-elements.php:21176 page-builder-elements.php:21266
+msgid "Google Play"
+msgstr ""
+
+#: page-builder-elements.php:21203
+msgid "Windows"
+msgstr ""
+
+#: page-builder-elements.php:21230 page-builder-elements.php:21280
+msgid "Amazon"
+msgstr ""
+
+#: page-builder-elements.php:21250
+msgid "App Box"
+msgstr ""
+
+#: page-builder-elements.php:21254
+msgid "App box element."
+msgstr ""
+
+#: page-builder-elements.php:21260
+msgid "You can create an Apple Store link."
+msgstr ""
+
+#: page-builder-elements.php:21267
+msgid "You can create a Google Play link."
+msgstr ""
+
+#: page-builder-elements.php:21273
+msgid "Windows Store"
+msgstr ""
+
+#: page-builder-elements.php:21274
+msgid "You can create a Windows Store link."
+msgstr ""
+
+#: page-builder-elements.php:21281
+msgid "You can create an Amazon link."
+msgstr ""
+
+#: page-builder-elements.php:21361
+msgid "Button"
+msgstr ""
+
+#: page-builder-elements.php:21365
+msgid "Button element."
+msgstr ""
+
+#: page-builder-elements.php:21398
+msgid "Button Link"
+msgstr ""
+
+#: page-builder-elements.php:21399
+msgid "You can create a button link."
+msgstr ""
+
+#: page-builder-elements.php:21419 page-builder-elements.php:21614
+msgid "Inline"
+msgstr ""
+
+#: page-builder-elements.php:21420 page-builder-elements.php:21615
+msgid "You can choose status of the inline."
+msgstr ""
+
+#: page-builder-elements.php:21430 page-builder-elements.php:21626
+msgid "Margin"
+msgstr ""
+
+#: page-builder-elements.php:21431 page-builder-elements.php:21627
+msgid "You can choose status of the margin."
+msgstr ""
+
+#: page-builder-elements.php:21506
+msgid "Close"
+msgstr ""
+
+#: page-builder-elements.php:21552
+msgid "Modal Button"
+msgstr ""
+
+#: page-builder-elements.php:21556
+msgid "Modal button element."
+msgstr ""
+
+#: page-builder-elements.php:21591
+msgid "You can enter a button title."
+msgstr ""
+
+#: page-builder-elements.php:21638
+msgid "Standard Content"
+msgstr ""
+
+#: page-builder-elements.php:21639
+msgid "You can enter a content."
+msgstr ""
+
+#: page-builder-elements.php:21640 page-builder-elements.php:21648
+#: page-builder-elements.php:21656 page-builder-elements.php:21664
+msgid "Modal"
+msgstr ""
+
+#: page-builder-elements.php:21646
+msgid "HTML Content"
+msgstr ""
+
+#: page-builder-elements.php:21647
+msgid "You can enter a HTML content."
+msgstr ""
+
+#: page-builder-elements.php:21654
+msgid "Shortcode"
+msgstr ""
+
+#: page-builder-elements.php:21655
+msgid "You can enter a shortcode."
+msgstr ""
+
+#: page-builder-elements.php:21662
+msgid "Map Iframe Link"
+msgstr ""
+
+#: page-builder-elements.php:21663
+msgid "You can enter a map iframe link."
+msgstr ""
+
+#: page-builder-elements.php:21713
+msgid "MailChimp Newsletter"
+msgstr ""
+
+#: page-builder-elements.php:21717
+msgid "MailChimp newsletter element."
+msgstr ""
+
+#: page-builder-elements.php:21733
+msgid "Form ID"
+msgstr ""
+
+#: page-builder-elements.php:21734
+msgid "You can enter a MailChimp newsletter form id."
+msgstr ""
+
+#: page-builder-elements.php:21782
+msgid "Social links element."
+msgstr ""
+
+#: page-builder-elements.php:21913
+msgid "You can create a FAQ list."
+msgstr ""
+
+#: page-builder-elements.php:21918
+msgid "First Open"
+msgstr ""
+
+#: page-builder-elements.php:21919
+msgid "Will first item comes open automatically?"
+msgstr ""
+
+#: page-builder-elements.php:21929
+msgid "All Open"
+msgstr ""
+
+#: page-builder-elements.php:21930
+msgid "All item comes open automatically?"
+msgstr ""
+
+#: page-builder-elements.php:21940
+msgid "Items"
+msgstr ""
+
+#: page-builder-elements.php:21941
+msgid "You can create items from this panel."
+msgstr ""
+
+#: page-builder-elements.php:22046
+msgid "Icon List"
+msgstr ""
+
+#: page-builder-elements.php:22053
+msgid "Icon list element."
+msgstr ""
+
+#: page-builder-elements.php:22077
+msgid "Icon List Item"
+msgstr ""
+
+#: page-builder-elements.php:22083
+msgid "Icon list item element."
+msgstr ""
+
+#: page-builder-elements.php:22408
+#, php-format
+msgid "%1$s has liked %2$s event."
+msgstr ""
+
+#: page-builder-elements.php:22414
+#, php-format
+msgid "%1$s has liked %2$s speaker."
+msgstr ""
+
+#: page-builder-elements.php:22420
+#, php-format
+msgid "%1$s has liked %2$s venue."
+msgstr ""
+
+#: page-builder-elements.php:22524
+msgid "Your list of activities seems empty."
+msgstr ""
+
+#: page-builder-elements.php:22539
+msgid "User Activity"
+msgstr ""
+
+#: page-builder-elements.php:22543
+msgid "Get user activities."
+msgstr ""
+
+#: page-builder-elements.php:22549
+msgid "You can choose a content type."
+msgstr ""
+
+#: page-builder-elements.php:22554
+msgid "Likes"
+msgstr ""
+
+#: page-builder-elements.php:22555
+msgid "Favorites"
+msgstr ""
+
+#: page-builder-elements.php:22568 post-types.php:13 post-types.php:15
+#: post-types.php:28
+msgid "Events"
+msgstr ""
+
+#: page-builder-elements.php:22577
+msgid ""
+"You can enter a content count. If you want to list all content, enter -1."
+msgstr ""
+
+#: page-builder-elements.php:22609
+msgid "Liked and Favorited Date"
+msgstr ""
+
+#: page-builder-elements.php:22651
+msgid "Activity Style"
+msgstr ""
+
+#: page-builder-elements.php:22652
+msgid "Custom Style"
+msgstr ""
+
+#: page-builder-elements.php:22658
+msgid "Listing Column"
+msgstr ""
+
+#: page-builder-elements.php:22674
+msgid "Event Listing Style"
+msgstr ""
+
+#: page-builder-elements.php:22676 page-builder-elements.php:22689
+#: page-builder-elements.php:22701 page-builder-elements.php:22713
+#: page-builder-elements.php:22725 page-builder-elements.php:22737
+#: page-builder-elements.php:22749 page-builder-elements.php:22761
+#: page-builder-elements.php:22773 page-builder-elements.php:22785
+#: post-types.php:14
+msgid "Event"
+msgstr ""
+
+#: page-builder-elements.php:22687
+msgid "Event Price"
+msgstr ""
+
+#: page-builder-elements.php:22699
+msgid "Event Status"
+msgstr ""
+
+#: page-builder-elements.php:22711 widgets.php:440
+msgid "Event Category"
+msgstr ""
+
+#: page-builder-elements.php:22723
+msgid "Event Location"
+msgstr ""
+
+#: page-builder-elements.php:22735
+msgid "Event Venue"
+msgstr ""
+
+#: page-builder-elements.php:22747
+msgid "Event Start Date"
+msgstr ""
+
+#: page-builder-elements.php:22748
+msgid "You can choose status of the event date."
+msgstr ""
+
+#: page-builder-elements.php:22759
+msgid "Event Start Time"
+msgstr ""
+
+#: page-builder-elements.php:22771
+msgid "Event Ticket Amount"
+msgstr ""
+
+#: page-builder-elements.php:22783
+msgid "Event Excerpt"
+msgstr ""
+
+#: page-builder-elements.php:22813
+msgid "Speaker Profession / Company"
+msgstr ""
+
+#: page-builder-elements.php:22814
+msgid ""
+"You can choose status of the speaker profession / company info. You can "
+"choose the field you want to show from the Theme Settings > Speakers page."
+msgstr ""
+
+#: page-builder-elements.php:22825
+msgid "Speaker Short Biography"
+msgstr ""
+
+#: page-builder-elements.php:22826
+msgid "You can choose status of the speaker short biography."
+msgstr ""
+
+#: page-builder-elements.php:22849
+msgid "Venue Location"
+msgstr ""
+
+#: page-builder-elements.php:22861
+msgid "Venue Excerpt"
+msgstr ""
+
+#: page-builder-elements.php:22963
+msgid "Image Gallery"
+msgstr ""
+
+#: page-builder-elements.php:22967
+msgid "You can create an image gallery."
+msgstr ""
+
+#: page-builder-elements.php:22972
+msgid "Images"
+msgstr ""
+
+#: page-builder-elements.php:22973
+msgid "You can upload images."
+msgstr ""
+
+#: page-builder-elements.php:22979
+msgid "Caption"
+msgstr ""
+
+#: page-builder-elements.php:22980
+msgid "You can choose status of the caption."
+msgstr ""
+
+#: page-builder-elements.php:22995
+msgid "1"
+msgstr ""
+
+#: page-builder-elements.php:22996
+msgid "2"
+msgstr ""
+
+#: page-builder-elements.php:22997
+msgid "3"
+msgstr ""
+
+#: page-builder-elements.php:22998
+msgid "4"
+msgstr ""
+
+#: page-builder-elements.php:23000
+msgid "6"
+msgstr ""
+
+#: page-builder-elements.php:23001
+msgid "7"
+msgstr ""
+
+#: page-builder-elements.php:23002
+msgid "8"
+msgstr ""
+
+#: page-builder-elements.php:23003
+msgid "9"
+msgstr ""
+
+#: post-types.php:16
+msgid "Parent Event:"
+msgstr ""
+
+#: post-types.php:18
+msgid "View Event"
+msgstr ""
+
+#: post-types.php:19
+msgid "Add New Event Item"
+msgstr ""
+
+#: post-types.php:20
+msgid "Add New Event"
+msgstr ""
+
+#: post-types.php:21
+msgid "Edit Event"
+msgstr ""
+
+#: post-types.php:22
+msgid "Update Event"
+msgstr ""
+
+#: post-types.php:23
+msgid "Search Event"
+msgstr ""
+
+#: post-types.php:24
+msgid "Not Event Found"
+msgstr ""
+
+#: post-types.php:25
+msgid "Not Event Found in Trash"
+msgstr ""
+
+#: post-types.php:29
+msgid "Event post type description."
+msgstr ""
+
+#: post-types.php:65
+msgid "Parent Venue:"
+msgstr ""
+
+#: post-types.php:67
+msgid "View Venue"
+msgstr ""
+
+#: post-types.php:68
+msgid "Add New Venue Item"
+msgstr ""
+
+#: post-types.php:69
+msgid "Add New Venue"
+msgstr ""
+
+#: post-types.php:70
+msgid "Edit Venue"
+msgstr ""
+
+#: post-types.php:71
+msgid "Update Venue"
+msgstr ""
+
+#: post-types.php:72
+msgid "Search Venue"
+msgstr ""
+
+#: post-types.php:73
+msgid "Not Venue Found"
+msgstr ""
+
+#: post-types.php:74
+msgid "Not Venue Found in Trash"
+msgstr ""
+
+#: post-types.php:78
+msgid "Venue post type description."
+msgstr ""
+
+#: post-types.php:114
+msgid "Parent Speaker:"
+msgstr ""
+
+#: post-types.php:116
+msgid "View Speaker"
+msgstr ""
+
+#: post-types.php:117
+msgid "Add New Speaker Item"
+msgstr ""
+
+#: post-types.php:118
+msgid "Add New Speaker"
+msgstr ""
+
+#: post-types.php:119
+msgid "Edit Speaker"
+msgstr ""
+
+#: post-types.php:120
+msgid "Update Speaker"
+msgstr ""
+
+#: post-types.php:121
+msgid "Search Speaker"
+msgstr ""
+
+#: post-types.php:122
+msgid "Not Speaker Found"
+msgstr ""
+
+#: post-types.php:123
+msgid "Not Speaker Found in Trash"
+msgstr ""
+
+#: post-types.php:127
+msgid "Speaker post type description."
+msgstr ""
+
+#: post-types.php:169 post-types.php:295 post-types.php:379
+msgid "Parent Category"
+msgstr ""
+
+#: post-types.php:170 post-types.php:296 post-types.php:380
+msgid "Parent Category:"
+msgstr ""
+
+#: post-types.php:171 post-types.php:297 post-types.php:381
+msgid "New Category Name"
+msgstr ""
+
+#: post-types.php:172 post-types.php:298 post-types.php:382
+msgid "Add New Category"
+msgstr ""
+
+#: post-types.php:173 post-types.php:299 post-types.php:383
+msgid "Edit Category"
+msgstr ""
+
+#: post-types.php:174 post-types.php:300 post-types.php:384
+msgid "View Category"
+msgstr ""
+
+#: post-types.php:175 post-types.php:301 post-types.php:385
+msgid "Update Category"
+msgstr ""
+
+#: post-types.php:176 post-types.php:302 post-types.php:386
+msgid "Separate categories with commas"
+msgstr ""
+
+#: post-types.php:177 post-types.php:303 post-types.php:387
+msgid "Search Categories"
+msgstr ""
+
+#: post-types.php:178 post-types.php:304 post-types.php:388
+msgid "Add or remove categories"
+msgstr ""
+
+#: post-types.php:179 post-types.php:305 post-types.php:389
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: post-types.php:210
+msgid "All Organizers"
+msgstr ""
+
+#: post-types.php:211
+msgid "Parent Organizer"
+msgstr ""
+
+#: post-types.php:212
+msgid "Parent Organizer:"
+msgstr ""
+
+#: post-types.php:213
+msgid "New Organizer Name"
+msgstr ""
+
+#: post-types.php:214
+msgid "Add New Organizer"
+msgstr ""
+
+#: post-types.php:215
+msgid "Edit Organizer"
+msgstr ""
+
+#: post-types.php:216
+msgid "View Organizer"
+msgstr ""
+
+#: post-types.php:217
+msgid "Update Organizer"
+msgstr ""
+
+#: post-types.php:218
+msgid "Separate organizers with commas"
+msgstr ""
+
+#: post-types.php:219
+msgid "Search Organizers"
+msgstr ""
+
+#: post-types.php:220
+msgid "Add or remove organizers"
+msgstr ""
+
+#: post-types.php:221
+msgid "Choose from the most used organizers"
+msgstr ""
+
+#: post-types.php:252 post-types.php:336 post-types.php:420
+msgid "All Tags"
+msgstr ""
+
+#: post-types.php:253 post-types.php:337 post-types.php:421
+msgid "Parent Tag"
+msgstr ""
+
+#: post-types.php:254 post-types.php:338 post-types.php:422
+msgid "Parent Tag:"
+msgstr ""
+
+#: post-types.php:255 post-types.php:339 post-types.php:423
+msgid "New Tag Name"
+msgstr ""
+
+#: post-types.php:256 post-types.php:340 post-types.php:424
+msgid "Add New Tag"
+msgstr ""
+
+#: post-types.php:257 post-types.php:341 post-types.php:425
+msgid "Edit Tag"
+msgstr ""
+
+#: post-types.php:258 post-types.php:342 post-types.php:426
+msgid "View Tag"
+msgstr ""
+
+#: post-types.php:259 post-types.php:343 post-types.php:427
+msgid "Update Tag"
+msgstr ""
+
+#: post-types.php:260 post-types.php:344 post-types.php:428
+msgid "Separate tags with commas"
+msgstr ""
+
+#: post-types.php:261 post-types.php:345 post-types.php:429
+msgid "Search Tags"
+msgstr ""
+
+#: post-types.php:262 post-types.php:346 post-types.php:430
+msgid "Add or remove tags"
+msgstr ""
+
+#: post-types.php:263 post-types.php:347 post-types.php:431
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: post-types.php:462
+msgid "All Locations"
+msgstr ""
+
+#: post-types.php:463
+msgid "Parent Location"
+msgstr ""
+
+#: post-types.php:464
+msgid "Parent Location:"
+msgstr ""
+
+#: post-types.php:465
+msgid "New Location Name"
+msgstr ""
+
+#: post-types.php:466
+msgid "Add New Location"
+msgstr ""
+
+#: post-types.php:467
+msgid "Edit Location"
+msgstr ""
+
+#: post-types.php:468
+msgid "View Location"
+msgstr ""
+
+#: post-types.php:469
+msgid "Update Location"
+msgstr ""
+
+#: post-types.php:470
+msgid "Separate locations with commas"
+msgstr ""
+
+#: post-types.php:471
+msgid "Search Locations"
+msgstr ""
+
+#: post-types.php:472
+msgid "Add or remove locations"
+msgstr ""
+
+#: post-types.php:473
+msgid "Choose from the most used locations"
+msgstr ""
+
+#: template-studio.php:13
+msgid "About Us"
+msgstr ""
+
+#: template-studio.php:31
+msgid "Blog 2"
+msgstr ""
+
+#: template-studio.php:40
+msgid "Blog 3"
+msgstr ""
+
+#: template-studio.php:58
+msgid "Categorized Events 1"
+msgstr ""
+
+#: template-studio.php:67
+msgid "Categorized Events 2"
+msgstr ""
+
+#: template-studio.php:76
+msgid "Categorized Events 3"
+msgstr ""
+
+#: template-studio.php:85
+msgid "Categorized Speakers 1"
+msgstr ""
+
+#: template-studio.php:94
+msgid "Categorized Speakers 2"
+msgstr ""
+
+#: template-studio.php:103
+msgid "Categorized Speakers 3"
+msgstr ""
+
+#: template-studio.php:112
+msgid "Categorized Speakers 4"
+msgstr ""
+
+#: template-studio.php:121
+msgid "Categorized Speakers 5"
+msgstr ""
+
+#: template-studio.php:139
+msgid "Contact Us"
+msgstr ""
+
+#: template-studio.php:148
+msgid "Contact Us 2"
+msgstr ""
+
+#: template-studio.php:157
+msgid "Event Listing 1"
+msgstr ""
+
+#: template-studio.php:166
+msgid "Event Listing 2"
+msgstr ""
+
+#: template-studio.php:175
+msgid "Event Listing 3"
+msgstr ""
+
+#: template-studio.php:184
+msgid "Event Listing 4"
+msgstr ""
+
+#: template-studio.php:193
+msgid "Event Listing 5"
+msgstr ""
+
+#: template-studio.php:202
+msgid "Events Map 1"
+msgstr ""
+
+#: template-studio.php:211
+msgid "Events Map 2"
+msgstr ""
+
+#: template-studio.php:229
+msgid "Footer"
+msgstr ""
+
+#: template-studio.php:238
+msgid "Gallery"
+msgstr ""
+
+#: template-studio.php:247
+msgid "Home – Art Event"
+msgstr ""
+
+#: template-studio.php:256
+msgid "Home – Business Event"
+msgstr ""
+
+#: template-studio.php:265
+msgid "Home - Calendar v1"
+msgstr ""
+
+#: template-studio.php:274
+msgid "Home - Calendar v2"
+msgstr ""
+
+#: template-studio.php:283
+msgid "Home – Concert Event"
+msgstr ""
+
+#: template-studio.php:292
+msgid "Home – Education Event"
+msgstr ""
+
+#: template-studio.php:301
+msgid "Home - Fashion Event"
+msgstr ""
+
+#: template-studio.php:310
+msgid "Home - Game Event"
+msgstr ""
+
+#: template-studio.php:319
+msgid "Home - Listing v1"
+msgstr ""
+
+#: template-studio.php:328
+msgid "Home - Listing v2"
+msgstr ""
+
+#: template-studio.php:337
+msgid "Home - Multiple v1"
+msgstr ""
+
+#: template-studio.php:346
+msgid "Home - Multiple v2"
+msgstr ""
+
+#: template-studio.php:355
+msgid "Home - Multiple v3"
+msgstr ""
+
+#: template-studio.php:364
+msgid "Home - Multiple v4"
+msgstr ""
+
+#: template-studio.php:373
+msgid "Home - Multiple v5"
+msgstr ""
+
+#: template-studio.php:382
+msgid "Home - Multiple v6"
+msgstr ""
+
+#: template-studio.php:391
+msgid "Home - Sports Event"
+msgstr ""
+
+#: template-studio.php:400
+msgid "Home - Technology Event"
+msgstr ""
+
+#: template-studio.php:409
+msgid "Home - Travel Event"
+msgstr ""
+
+#: template-studio.php:418
+msgid "Home - Wedding Event"
+msgstr ""
+
+#: template-studio.php:427
+msgid "List Calendar"
+msgstr ""
+
+#: template-studio.php:436
+msgid "My Activities"
+msgstr ""
+
+#: template-studio.php:445
+msgid "Pricing Tables"
+msgstr ""
+
+#: template-studio.php:454
+msgid "Schedule 1"
+msgstr ""
+
+#: template-studio.php:463
+msgid "Schedule 2"
+msgstr ""
+
+#: template-studio.php:472
+msgid "Schedule 3"
+msgstr ""
+
+#: template-studio.php:481
+msgid "Schedule 4"
+msgstr ""
+
+#: template-studio.php:490
+msgid "Schedule 5"
+msgstr ""
+
+#: template-studio.php:499
+msgid "Schedule 6"
+msgstr ""
+
+#: template-studio.php:508
+msgid "Schedule 7"
+msgstr ""
+
+#: template-studio.php:517
+msgid "Search Results"
+msgstr ""
+
+#: template-studio.php:526
+msgid "Speaker Listing 1"
+msgstr ""
+
+#: template-studio.php:535
+msgid "Speaker Listing 2"
+msgstr ""
+
+#: template-studio.php:544
+msgid "Speaker Listing 3"
+msgstr ""
+
+#: template-studio.php:553
+msgid "Speaker Listing 4"
+msgstr ""
+
+#: template-studio.php:562
+msgid "Speaker Listing 5"
+msgstr ""
+
+#: template-studio.php:571
+msgid "Speaker Listing 6"
+msgstr ""
+
+#: template-studio.php:580
+msgid "Speaker Listing 7"
+msgstr ""
+
+#: template-studio.php:589
+msgid "Speaker Listing 8"
+msgstr ""
+
+#: user-social-media.php:11
+msgid "Facebook"
+msgstr ""
+
+#: user-social-media.php:12
+msgid "Instagram"
+msgstr ""
+
+#: user-social-media.php:13
+msgid "LinkedIn"
+msgstr ""
+
+#: user-social-media.php:14
+msgid "Vine"
+msgstr ""
+
+#: user-social-media.php:15
+msgid "Twitter"
+msgstr ""
+
+#: user-social-media.php:16
+msgid "Pinterest"
+msgstr ""
+
+#: user-social-media.php:17
+msgid "YouTube"
+msgstr ""
+
+#: user-social-media.php:18
+msgid "Behance"
+msgstr ""
+
+#: user-social-media.php:19
+msgid "DeviantArt"
+msgstr ""
+
+#: user-social-media.php:20
+msgid "Digg"
+msgstr ""
+
+#: user-social-media.php:21
+msgid "Dribbble"
+msgstr ""
+
+#: user-social-media.php:22
+msgid "Flickr"
+msgstr ""
+
+#: user-social-media.php:23
+msgid "GitHub"
+msgstr ""
+
+#: user-social-media.php:24
+msgid "Last.fm"
+msgstr ""
+
+#: user-social-media.php:25
+msgid "Reddit"
+msgstr ""
+
+#: user-social-media.php:26
+msgid "SoundCloud"
+msgstr ""
+
+#: user-social-media.php:27
+msgid "Tumblr"
+msgstr ""
+
+#: user-social-media.php:28
+msgid "Vimeo"
+msgstr ""
+
+#: user-social-media.php:29
+msgid "VK"
+msgstr ""
+
+#: user-social-media.php:30
+msgid "Medium"
+msgstr ""
+
+#: widgets.php:28
+msgid "Eventchamp: Blog"
+msgstr ""
+
+#: widgets.php:29
+msgid "Blog widget."
+msgstr ""
+
+#: widgets.php:141 widgets.php:430 widgets.php:645 widgets.php:973
+#: widgets.php:1319
+msgid "Widget Title"
+msgstr ""
+
+#: widgets.php:224
+msgid "Eventchamp: Events"
+msgstr ""
+
+#: widgets.php:225
+msgid "Event listing widget."
+msgstr ""
+
+#: widgets.php:435
+msgid "Event Count"
+msgstr ""
+
+#: widgets.php:450
+msgid "Include Events:"
+msgstr ""
+
+#: widgets.php:503
+msgid "Eventchamp: Venues"
+msgstr ""
+
+#: widgets.php:504
+msgid "Venue listing widget."
+msgstr ""
+
+#: widgets.php:660
+msgid "Include Venues:"
+msgstr ""
+
+#: widgets.php:711
+msgid "Eventchamp: Speakers"
+msgstr ""
+
+#: widgets.php:712
+msgid "Speaker listing widget."
+msgstr ""
+
+#: widgets.php:988
+msgid "Include Speakers:"
+msgstr ""
+
+#: widgets.php:1045
+msgid "Eventchamp: Event Search"
+msgstr ""
+
+#: widgets.php:1046
+msgid "Event search widget."
+msgstr ""
+
+#: widgets.php:1337
+msgid "Column 1"
+msgstr ""
+
+#: widgets.php:1338
+msgid "Column 2"
+msgstr ""
+
+#: widgets.php:1339
+msgid "Column 3"
+msgstr ""
+
+#: widgets.php:1340
+msgid "Column 4"
+msgstr ""
+
+#: widgets.php:1341
+msgid "Column 5"
+msgstr ""
+
+#: widgets.php:1415
+msgid "You can enter an venue count."
+msgstr ""
+
+#: widgets.php:1421 widgets.php:1427
+msgid "You can enter venue ids. Example: 1,2,3 etc."
+msgstr ""
+
+#: widgets.php:1442 widgets.php:1490
+msgid "Popular by Comments"
+msgstr ""
+
+#: widgets.php:1463
+msgid "You can enter an speaker count."
+msgstr ""
+
+#: widgets.php:1469 widgets.php:1475
+msgid "You can enter speaker ids. Example: 1,2,3 etc."
+msgstr ""
+
+#: widgets.php:1555
+msgid "Sort"
+msgstr ""
+
+#: widgets.php:1637
+msgid "Empty Taxonomies"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Eventchamp Elements"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://themeforest.net/user/gloriathemes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The elements of Eventchamp theme is exists in the plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Gloria Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://gloriathemes.com/"
+msgstr ""
